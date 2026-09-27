@@ -1,0 +1,216 @@
+{
+  "anchor": "CH1142754337",
+  "assertion_ids": [
+    "as_459ec4c2fff3",
+    "as_49f0d1ea924b",
+    "as_4b4f0f797068",
+    "as_bcd5f9e562c3",
+    "as_d360ea613697",
+    "as_dc07d9a8984f",
+    "as_ec128c7df795"
+  ],
+  "conflicts": [],
+  "deep_traces": [
+    {
+      "complete": true,
+      "hops": [
+        "admission",
+        "cash_leg",
+        "coordination",
+        "ledger_representation",
+        "legal_representation",
+        "securities_settlement",
+        "security_issue"
+      ],
+      "hops_detail": {
+        "admission": {
+          "claim_ids": [
+            "mclaim_beec6cf579f2"
+          ],
+          "state": "OBSERVED"
+        },
+        "cash_leg": {
+          "bound": "platform",
+          "claim_ids": [],
+          "platform_claim_ids": [
+            "mclaim_126f6e416d51",
+            "mclaim_52169b1239af",
+            "mclaim_58fef68e69ba",
+            "mclaim_8cd5d65e5b59",
+            "mclaim_cad29b28eb4a"
+          ],
+          "state": {
+            "asset_type": "UNKNOWN",
+            "representation": "UNKNOWN"
+          }
+        },
+        "coordination": {
+          "bound": "platform",
+          "claim_ids": [],
+          "platform_claim_ids": [
+            "mclaim_126f6e416d51",
+            "mclaim_52169b1239af",
+            "mclaim_58fef68e69ba",
+            "mclaim_8cd5d65e5b59",
+            "mclaim_cad29b28eb4a"
+          ],
+          "state": {
+            "model": "UNKNOWN"
+          }
+        },
+        "ledger_representation": {
+          "evidence": "G0E_TECHNICAL",
+          "g0e_dispositions": {
+            "ledgerrep_c9f0d4dd7104": "OPERATOR_ATTESTED_ONLY"
+          },
+          "ledger_representation_ids": [
+            "ledgerrep_c9f0d4dd7104"
+          ]
+        },
+        "legal_representation": {
+          "evidence": "G0D_LEGAL_REGISTER",
+          "source_id": "six_central_register",
+          "source_record_ids": [
+            "sr_0b4328d76e48"
+          ]
+        },
+        "securities_settlement": {
+          "bound": "instrument",
+          "claim_ids": [
+            "mclaim_bb3c4a85829e"
+          ],
+          "level": "TRANSACTION_OBSERVED"
+        },
+        "security_issue": {
+          "assertion_ids": [
+            "as_459ec4c2fff3",
+            "as_49f0d1ea924b",
+            "as_4b4f0f797068",
+            "as_bcd5f9e562c3",
+            "as_d360ea613697",
+            "as_dc07d9a8984f",
+            "as_ec128c7df795"
+          ],
+          "evidence": "G0D_ASSERTION",
+          "issue_id": "issue_aeb44e956dff"
+        }
+      },
+      "kind": "ARCHITECTURE",
+      "notes": "",
+      "trace_id": "trace_341a19c6890f",
+      "trace_type": "ARCHITECTURE_TRACE"
+    }
+  ],
+  "description": "0.125 SIX Grp 26 Bd",
+  "display_name": "0.125 SIX Grp 26 Bd",
+  "id": "issue_aeb44e956dff",
+  "identifiers": {
+    "asset_id": "6A1",
+    "contract": null,
+    "dti": null,
+    "isin": "CH1142754337",
+    "issue_code": null,
+    "local_security_id": "114275433"
+  },
+  "infrastructure_jurisdiction": "CH",
+  "instrument_type": {
+    "assertion_ids": [],
+    "level": "TYPE_REFERENCE_CFI",
+    "normalized": "BOND",
+    "origin": "OI_LOOKUP",
+    "value": "DBFNGB"
+  },
+  "instrument_type_display": "Bond",
+  "isin_country": "CH",
+  "issue_facts": {
+    "amount": 150000000.0,
+    "amount_state": "SINGLE_SOURCE",
+    "currency": "CHF",
+    "interest_rate": null,
+    "issue_date": null,
+    "listed_on_axiology": null,
+    "maturity_date": null,
+    "nominal": 5000.0
+  },
+  "issuer": {
+    "assertion_ids": [],
+    "identifier": "529900ZMNQFCPP762W05",
+    "identifier_kind": "LEI",
+    "level": "CANONICAL_ENTITY",
+    "origin": "G0-D",
+    "value": "529900ZMNQFCPP762W05"
+  },
+  "jurisdiction": "CH",
+  "ledger_representations": [
+    {
+      "assertion_ids": [
+        "as_ec128c7df795"
+      ],
+      "asset_id": "6A1",
+      "blockchain_url": null,
+      "contract": null,
+      "dti": null,
+      "id": "ledgerrep_c9f0d4dd7104",
+      "network": "SDX DLT",
+      "technical": {
+        "dimensions": {
+          "LEDGER_IDENTITY": "SOURCE_ASSERTED",
+          "PUBLIC_OBSERVABILITY": "OPERATOR_ATTESTED_ONLY",
+          "TECHNICAL_REGISTRY": "REGISTRY_RECORD_OBSERVED"
+        },
+        "disposition": "OPERATOR_ATTESTED_ONLY"
+      },
+      "token_class_id": null
+    }
+  ],
+  "legal_jurisdiction": "CH",
+  "legal_model": "SDX CSD digital securities register",
+  "market": {
+    "admission": "OBSERVED",
+    "cash_leg": {
+      "asset_type": "UNKNOWN",
+      "representation": "UNKNOWN"
+    },
+    "coordination": {
+      "model": "UNKNOWN"
+    },
+    "primary_disposition": "ARCHITECTURE_TRACED",
+    "securities_settlement": {
+      "actual_transaction_observed": "TRANSACTION_OBSERVED",
+      "capability": "DOCUMENTED",
+      "ledger": "SDX permissioned DLT (Corda)",
+      "mechanism": "SDX",
+      "system": "SDX"
+    },
+    "trade": "NO_TRADE_FOUND"
+  },
+  "slug": "CH1142754337",
+  "source_family": "SIX Central Register",
+  "source_id": "six_central_register",
+  "sources": [
+    {
+      "artifact_id": "art_df0f835021a017c0131e48dc316395cdb0a468c991b1ff356a03f4b671d460e1",
+      "capture_id": "capture_8381f8ca8688",
+      "parser_id": "six_central_register",
+      "record_locator": "table[0].row[0]",
+      "source_id": "six_central_register",
+      "source_locator": "https://www.six-group.com/en/products-services/securities-services/digital-assets/digital-securities/main-register.html"
+    }
+  ],
+  "token_class_count": 0,
+  "token_classes": [],
+  "unknowns": [
+    {
+      "field": "cash_leg",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "coordination",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "public_trade",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    }
+  ]
+}
