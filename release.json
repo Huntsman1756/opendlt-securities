@@ -1,0 +1,8 @@
+{
+  "release_id": "opendlt-fd14eac-0fc9ef8f9f36",
+  "as_of": "2026-09-26",
+  "snapshot_id": "g1-0fc9ef8f9f36",
+  "product_fingerprint": "0fc9ef8f9f36cdb724ede3f95b04244dfc95c7de76260eb109e6e6fd591baf24",
+  "git_commit": "fd14eac409b345277119ecf52b9710ae59474beb",
+  "content_manifest_sha256": "6de01946d8b706a61496bf4b78f1b48dcf1e73c7c6eed5250e3458ec2ba936ff"
+}

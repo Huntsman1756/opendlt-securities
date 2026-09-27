@@ -1,0 +1,139 @@
+{
+  "anchor": "DE000A4AVXM3",
+  "assertion_ids": [
+    "as_0904e5a7a0b3",
+    "as_0b5d90876a39",
+    "as_23bfec1d8769",
+    "as_4023f731585a",
+    "as_750ebd656850",
+    "as_ae3da10d1aa1",
+    "as_af0ccfaca4d5",
+    "as_bee3c1918941",
+    "as_e37478e15b2c",
+    "as_f6f415cae30d"
+  ],
+  "conflicts": [],
+  "deep_traces": [],
+  "description": "OpenAI Bond",
+  "display_name": "OpenAI Bond",
+  "id": "issue_ebba84ad7f09",
+  "identifiers": {
+    "asset_id": null,
+    "contract": null,
+    "dti": null,
+    "isin": "DE000A4AVXM3",
+    "issue_code": null,
+    "local_security_id": null
+  },
+  "instrument_type": {
+    "assertion_ids": [
+      "as_23bfec1d8769"
+    ],
+    "level": "TYPE_SOURCE_LITERAL",
+    "normalized": null,
+    "origin": "G0-D",
+    "value": "Bond Token"
+  },
+  "issue_facts": {
+    "amount": "50.000.00,00",
+    "amount_state": "SINGLE_SOURCE",
+    "currency": "EUR",
+    "interest_rate": null,
+    "issue_date": "May 15, 2026",
+    "listed_on_axiology": null,
+    "maturity_date": "May 15, 2029",
+    "nominal": "EUR 1000"
+  },
+  "issuer": {
+    "assertion_ids": [],
+    "capture_id": "tcap_2dd38ee5c7e1",
+    "identifier": null,
+    "identifier_kind": null,
+    "level": "LEGAL_ISSUER_EXPLICIT",
+    "origin": "G0-R",
+    "url": "https://de000a4avxm3.register.nyala.de/OpenAI_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+    "value": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG"
+  },
+  "jurisdiction": "DE",
+  "ledger_representations": [
+    {
+      "assertion_ids": [
+        "as_bee3c1918941"
+      ],
+      "asset_id": null,
+      "blockchain_url": "https://stellar.expert/explorer/public/asset/OAI-GAXB2KME3TT7OLN7DNXSUFV6YEFIBHVE3QHMQPSP26MNSXXJGKTDD4ZF-1",
+      "contract": null,
+      "dti": null,
+      "id": "ledgerrep_f0d0346ab118",
+      "network": "Stellar",
+      "technical": {
+        "dimensions": {
+          "LEDGER_IDENTITY": "CORROBORATED",
+          "LEDGER_OBJECT": "REGISTRY_RECORD_OBSERVED",
+          "PROXY_TOPOLOGY": "NO_PROXY_EVIDENCE",
+          "PUBLIC_OBSERVABILITY": "PUBLIC_QUERYABLE",
+          "SOURCE_CODE": "NOT_APPLICABLE",
+          "TOKEN_STANDARD": "NOT_APPLICABLE"
+        },
+        "disposition": "TECHNICALLY_CORROBORATED"
+      },
+      "token_class_id": null
+    }
+  ],
+  "legal_model": "eWpG crypto securities register",
+  "market": {
+    "admission": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "cash_leg": {
+      "asset_type": "UNKNOWN",
+      "representation": "UNKNOWN"
+    },
+    "coordination": {
+      "model": "UNKNOWN"
+    },
+    "primary_disposition": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "securities_settlement": {
+      "actual_transaction_observed": "NOT_OBSERVED",
+      "capability": "UNKNOWN",
+      "ledger": "polygon_pos / stellar_public (G0-E)",
+      "mechanism": "UNKNOWN",
+      "system": "Smart Registry (KWP securities register)"
+    },
+    "trade": "NO_TRADE_FOUND"
+  },
+  "slug": "DE000A4AVXM3",
+  "source_family": "NYALA Smart Registry",
+  "source_id": "nyala_smart_registry",
+  "sources": [
+    {
+      "artifact_id": "art_b60269fb2a8986e2b17ffbe241ee06a40622e7f38c89fd75fff881168a3ad542",
+      "capture_id": "capture_81ff45765def",
+      "parser_id": "nyala_smart_registry",
+      "record_locator": "collection_item[33]",
+      "source_id": "nyala_smart_registry",
+      "source_locator": "https://www.nyala.de/en/products/electronic-securities"
+    },
+    {
+      "artifact_id": null,
+      "capture_id": "tcap_2dd38ee5c7e1",
+      "note": "Post-freeze G0-R source exhaustion",
+      "source_id": "g0r_issuer_enrichment",
+      "source_locator": "https://de000a4avxm3.register.nyala.de/OpenAI_Bond_Terms_and_Conditions_Professional_Clients.pdf"
+    }
+  ],
+  "token_class_count": 0,
+  "token_classes": [],
+  "unknowns": [
+    {
+      "field": "cash_leg",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "coordination",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "public_trade",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    }
+  ]
+}

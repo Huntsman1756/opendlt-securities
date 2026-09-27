@@ -1,0 +1,138 @@
+{
+  "anchor": "DE000A4ZZA75",
+  "assertion_ids": [
+    "as_140c1c09f2ca",
+    "as_1dd83bc4f29d",
+    "as_2648567ce73a",
+    "as_5c3328899d08",
+    "as_6fed39d44009",
+    "as_70eeddfba0fd",
+    "as_88053775af68",
+    "as_dc21e051345f",
+    "as_e4179e7e98bd"
+  ],
+  "conflicts": [],
+  "deep_traces": [],
+  "description": "Beets & Roots Genussschein 2026",
+  "display_name": "Beets & Roots Genussschein 2026",
+  "id": "issue_2189198a2123",
+  "identifiers": {
+    "asset_id": null,
+    "contract": "0xC528552A7ED6192799E34801772bFdDa0d0f1E71",
+    "dti": null,
+    "isin": "DE000A4ZZA75",
+    "issue_code": null,
+    "local_security_id": null
+  },
+  "instrument_type": {
+    "assertion_ids": [
+      "as_2648567ce73a"
+    ],
+    "level": "TYPE_SOURCE_LITERAL",
+    "normalized": null,
+    "origin": "G0-D",
+    "value": "Bond Token"
+  },
+  "issue_facts": {
+    "amount": "1.000.000,00",
+    "amount_state": "SINGLE_SOURCE",
+    "currency": "EUR",
+    "interest_rate": null,
+    "issue_date": "June 20, 2026",
+    "listed_on_axiology": null,
+    "maturity_date": null,
+    "nominal": "EUR 250"
+  },
+  "issuer": {
+    "assertion_ids": [],
+    "capture_id": "tcap_37dd5bb497ee",
+    "identifier": null,
+    "identifier_kind": null,
+    "level": "LEGAL_ISSUER_EXPLICIT",
+    "origin": "G0-R",
+    "url": "https://de000a4zza75.register.nyala.de/Emissionsbedinungen%20Beets-Roots_20260325_final.pdf",
+    "value": "Secupay AG"
+  },
+  "jurisdiction": "DE",
+  "ledger_representations": [
+    {
+      "assertion_ids": [
+        "as_6fed39d44009"
+      ],
+      "asset_id": null,
+      "blockchain_url": "https://polygonscan.com/token/0xC528552A7ED6192799E34801772bFdDa0d0f1E71",
+      "contract": "0xC528552A7ED6192799E34801772bFdDa0d0f1E71",
+      "dti": null,
+      "id": "ledgerrep_bdc2e796b526",
+      "network": "Polygon (EVM)",
+      "technical": {
+        "dimensions": {
+          "LEDGER_IDENTITY": "CORROBORATED",
+          "LEDGER_OBJECT": "CONTRACT_CODE_OBSERVED",
+          "PROXY_TOPOLOGY": "NO_PROXY_EVIDENCE",
+          "PUBLIC_OBSERVABILITY": "PUBLIC_QUERYABLE",
+          "SOURCE_CODE": "SOURCIFY_NO_MATCH",
+          "TOKEN_STANDARD": "ERC20_LIKE"
+        },
+        "disposition": "TECHNICALLY_CORROBORATED"
+      },
+      "token_class_id": null
+    }
+  ],
+  "legal_model": "eWpG crypto securities register",
+  "market": {
+    "admission": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "cash_leg": {
+      "asset_type": "UNKNOWN",
+      "representation": "UNKNOWN"
+    },
+    "coordination": {
+      "model": "UNKNOWN"
+    },
+    "primary_disposition": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "securities_settlement": {
+      "actual_transaction_observed": "NOT_OBSERVED",
+      "capability": "UNKNOWN",
+      "ledger": "polygon_pos / stellar_public (G0-E)",
+      "mechanism": "UNKNOWN",
+      "system": "Smart Registry (KWP securities register)"
+    },
+    "trade": "NO_TRADE_FOUND"
+  },
+  "slug": "DE000A4ZZA75",
+  "source_family": "NYALA Smart Registry",
+  "source_id": "nyala_smart_registry",
+  "sources": [
+    {
+      "artifact_id": "art_b60269fb2a8986e2b17ffbe241ee06a40622e7f38c89fd75fff881168a3ad542",
+      "capture_id": "capture_81ff45765def",
+      "parser_id": "nyala_smart_registry",
+      "record_locator": "collection_item[19]",
+      "source_id": "nyala_smart_registry",
+      "source_locator": "https://www.nyala.de/en/products/electronic-securities"
+    },
+    {
+      "artifact_id": null,
+      "capture_id": "tcap_37dd5bb497ee",
+      "note": "Post-freeze G0-R source exhaustion",
+      "source_id": "g0r_issuer_enrichment",
+      "source_locator": "https://de000a4zza75.register.nyala.de/Emissionsbedinungen%20Beets-Roots_20260325_final.pdf"
+    }
+  ],
+  "token_class_count": 0,
+  "token_classes": [],
+  "unknowns": [
+    {
+      "field": "cash_leg",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "coordination",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "public_trade",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    }
+  ]
+}
