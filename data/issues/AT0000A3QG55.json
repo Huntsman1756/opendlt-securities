@@ -1,0 +1,140 @@
+{
+  "anchor": "AT0000A3QG55",
+  "assertion_ids": [
+    "as_4388fee017e2",
+    "as_495b95035bc4",
+    "as_4d074d9e2b02",
+    "as_61c72d7f1622",
+    "as_751be1409246",
+    "as_82664ef8df06",
+    "as_9b8e4a9be216",
+    "as_aaa81acb0b4c",
+    "as_be70e380ac28",
+    "as_c967e2730783",
+    "as_e125d9a7a56a"
+  ],
+  "conflicts": [],
+  "deep_traces": [],
+  "description": "Mörwald Holding GmbH - Geldzins",
+  "display_name": "Mörwald Holding GmbH",
+  "id": "issue_0137cff53cf7",
+  "identifiers": {
+    "asset_id": null,
+    "contract": "0x12CF778753F3254857B7a101DCcBE0404288d72b",
+    "dti": null,
+    "isin": "AT0000A3QG55",
+    "issue_code": null,
+    "local_security_id": null
+  },
+  "instrument_type": {
+    "assertion_ids": [
+      "as_aaa81acb0b4c"
+    ],
+    "level": "TYPE_SOURCE_LITERAL",
+    "normalized": null,
+    "origin": "G0-D",
+    "value": "Bond Token"
+  },
+  "issue_facts": {
+    "amount": "193.500,00",
+    "amount_state": "SINGLE_SOURCE",
+    "currency": "EUR",
+    "interest_rate": 5.0,
+    "issue_date": "April 20, 2026",
+    "listed_on_axiology": null,
+    "maturity_date": "December 31, 2030",
+    "nominal": "EUR 500"
+  },
+  "issuer": {
+    "assertion_ids": [],
+    "capture_id": "tcap_d63fe1b3eb03",
+    "identifier": null,
+    "identifier_kind": null,
+    "level": "LEGAL_ISSUER_EXPLICIT",
+    "origin": "G0-R",
+    "url": "https://at0000a3qg63.register.nyala.de/20251030_Emissionsbedingungen_M%C3%B6rwald%20Holding%20GmbH_clean.pdf",
+    "value": "Mörwald Holding GmbH"
+  },
+  "jurisdiction": "AT",
+  "ledger_representations": [
+    {
+      "assertion_ids": [
+        "as_4388fee017e2"
+      ],
+      "asset_id": null,
+      "blockchain_url": "https://polygonscan.com/token/0x12CF778753F3254857B7a101DCcBE0404288d72b",
+      "contract": "0x12CF778753F3254857B7a101DCcBE0404288d72b",
+      "dti": null,
+      "id": "ledgerrep_c2d8b1a9515a",
+      "network": "Polygon (EVM)",
+      "technical": {
+        "dimensions": {
+          "LEDGER_IDENTITY": "CORROBORATED",
+          "LEDGER_OBJECT": "CONTRACT_CODE_OBSERVED",
+          "PROXY_TOPOLOGY": "NO_PROXY_EVIDENCE",
+          "PUBLIC_OBSERVABILITY": "PUBLIC_QUERYABLE",
+          "SOURCE_CODE": "SOURCIFY_NO_MATCH",
+          "TOKEN_STANDARD": "ERC20_LIKE"
+        },
+        "disposition": "TECHNICALLY_CORROBORATED"
+      },
+      "token_class_id": null
+    }
+  ],
+  "legal_model": "eWpG crypto securities register",
+  "market": {
+    "admission": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "cash_leg": {
+      "asset_type": "UNKNOWN",
+      "representation": "UNKNOWN"
+    },
+    "coordination": {
+      "model": "UNKNOWN"
+    },
+    "primary_disposition": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "securities_settlement": {
+      "actual_transaction_observed": "NOT_OBSERVED",
+      "capability": "UNKNOWN",
+      "ledger": "polygon_pos / stellar_public (G0-E)",
+      "mechanism": "UNKNOWN",
+      "system": "Smart Registry (KWP securities register)"
+    },
+    "trade": "NO_TRADE_FOUND"
+  },
+  "slug": "AT0000A3QG55",
+  "source_family": "NYALA Smart Registry",
+  "source_id": "nyala_smart_registry",
+  "sources": [
+    {
+      "artifact_id": "art_b60269fb2a8986e2b17ffbe241ee06a40622e7f38c89fd75fff881168a3ad542",
+      "capture_id": "capture_81ff45765def",
+      "parser_id": "nyala_smart_registry",
+      "record_locator": "collection_item[45]",
+      "source_id": "nyala_smart_registry",
+      "source_locator": "https://www.nyala.de/en/products/electronic-securities"
+    },
+    {
+      "artifact_id": null,
+      "capture_id": "tcap_d63fe1b3eb03",
+      "note": "Post-freeze G0-R source exhaustion",
+      "source_id": "g0r_issuer_enrichment",
+      "source_locator": "https://at0000a3qg63.register.nyala.de/20251030_Emissionsbedingungen_M%C3%B6rwald%20Holding%20GmbH_clean.pdf"
+    }
+  ],
+  "token_class_count": 0,
+  "token_classes": [],
+  "unknowns": [
+    {
+      "field": "cash_leg",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "coordination",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "public_trade",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    }
+  ]
+}
