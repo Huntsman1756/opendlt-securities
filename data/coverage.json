@@ -1,0 +1,21 @@
+{
+  "universe": 98,
+  "issuer_evidenced": 95,
+  "issuer_strong": 93,
+  "type_evidenced": 89,
+  "legal_representation": 98,
+  "ledger_representation": 74,
+  "admission_states": {
+    "NOT_FOUND_IN_SEARCHED_SOURCES": 85,
+    "SOURCE_SAYS_NOT_LISTED": 6,
+    "OBSERVED": 7
+  },
+  "trade_states": {
+    "NO_TRADE_FOUND": 98
+  },
+  "deep_traces": {
+    "transaction": 3,
+    "architecture": 4
+  },
+  "conflict_count": 0
+}

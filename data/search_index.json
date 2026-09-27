@@ -1,0 +1,2312 @@
+[
+  {
+    "id": "issue_000a2bfb2cfe",
+    "slug": "A86796182_49f568133274",
+    "name": "Emisión de obligaciones no convertibles por importe de 5.000.000€, e inscrita en el Registro Mercantil el 27/12/2024: In",
+    "issuer": "DIANELUM, S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "000",
+      "12",
+      "2024",
+      "27",
+      "a86796182_49f568133274",
+      "convertibles",
+      "de",
+      "dianelum",
+      "el",
+      "emisión",
+      "en",
+      "importe",
+      "in",
+      "inscrita",
+      "mercantil",
+      "no",
+      "obligaciones",
+      "por",
+      "registro"
+    ]
+  },
+  {
+    "id": "issue_005318f523c7",
+    "slug": "DE000A4AU1A3",
+    "name": "GEG Via Pellizzo 14 2036",
+    "issuer": "German Estate Group GmbH",
+    "isin": "DE000A4AU1A3",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AU1A3",
+      "0xa600939F31825771035157D020952a5d5C98579e"
+    ],
+    "tokens": [
+      "14",
+      "2036",
+      "de000a4au1a3",
+      "estate",
+      "geg",
+      "german",
+      "gmbh",
+      "group",
+      "pellizzo",
+      "via"
+    ]
+  },
+  {
+    "id": "issue_0137cff53cf7",
+    "slug": "AT0000A3QG55",
+    "name": "Mörwald Holding GmbH",
+    "issuer": "Mörwald Holding GmbH",
+    "isin": "AT0000A3QG55",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3QG55",
+      "0x12CF778753F3254857B7a101DCcBE0404288d72b"
+    ],
+    "tokens": [
+      "at0000a3qg55",
+      "gmbh",
+      "holding",
+      "mörwald"
+    ]
+  },
+  {
+    "id": "issue_064beef7be6f",
+    "slug": "DE000A41UJN1",
+    "name": "Nook Genussschein 2025",
+    "issuer": "Nook Society GmbH & Co. KG",
+    "isin": "DE000A41UJN1",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A41UJN1",
+      "0xC90479bf20e3c6f15F01bA91B3C90843D0c6b0c1"
+    ],
+    "tokens": [
+      "2025",
+      "co",
+      "de000a41ujn1",
+      "genussschein",
+      "gmbh",
+      "kg",
+      "nook",
+      "society"
+    ]
+  },
+  {
+    "id": "issue_080d7185cf6f",
+    "slug": "DE000A42HT00",
+    "name": "Jawbuddy 2026",
+    "issuer": "HALBZEIT Investment I UG",
+    "isin": "DE000A42HT00",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A42HT00",
+      "0xa7f5b876b434a47aad263a793d66a764173beee6"
+    ],
+    "tokens": [
+      "2026",
+      "de000a42ht00",
+      "halbzeit",
+      "investment",
+      "jawbuddy",
+      "ug"
+    ]
+  },
+  {
+    "id": "issue_0ec7c5f34b4e",
+    "slug": "LT0000135352",
+    "name": "EUR VENTUS ARTIS BONDS 25-2027",
+    "issuer": "Ventus artis MB",
+    "isin": "LT0000135352",
+    "jurisdiction": "LT",
+    "identifiers": [
+      "LT0000135352",
+      "TB01WHNTB"
+    ],
+    "tokens": [
+      "2027",
+      "25",
+      "artis",
+      "bonds",
+      "eur",
+      "lt0000135352",
+      "mb",
+      "ventus"
+    ]
+  },
+  {
+    "id": "issue_0efd9143ebd9",
+    "slug": "FI4000609599",
+    "name": "HirviForest Oy",
+    "issuer": "HirviForest Oy",
+    "isin": "FI4000609599",
+    "jurisdiction": "FI",
+    "identifiers": [
+      "FI4000609599",
+      "0x2A3ad2D7F64b2816E21135F9D899112e27F1348F"
+    ],
+    "tokens": [
+      "fi4000609599",
+      "hirviforest",
+      "oy"
+    ]
+  },
+  {
+    "id": "issue_0fd5f22ea7ef",
+    "slug": "CH1562934682",
+    "name": "0.95 St. LUG 26-36",
+    "issuer": "City of Lugano",
+    "isin": "CH1562934682",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1562934682",
+      "156293468",
+      "3A6"
+    ],
+    "tokens": [
+      "26",
+      "36",
+      "95",
+      "ch1562934682",
+      "city",
+      "lug",
+      "lugano",
+      "of",
+      "st"
+    ]
+  },
+  {
+    "id": "issue_1096829c269e",
+    "slug": "LT0000137457",
+    "name": "EUR 9.00 Verslo parko projektai obligacijos 26-2028",
+    "issuer": "UAB Verslo parko projektai",
+    "isin": "LT0000137457",
+    "jurisdiction": "LT",
+    "identifiers": [
+      "LT0000137457"
+    ],
+    "tokens": [
+      "00",
+      "2028",
+      "26",
+      "eur",
+      "lt0000137457",
+      "obligacijos",
+      "parko",
+      "projektai",
+      "uab",
+      "verslo"
+    ]
+  },
+  {
+    "id": "issue_121e895152cb",
+    "slug": "DE000A4AVXG5",
+    "name": "Anduril Bond",
+    "issuer": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG",
+    "isin": "DE000A4AVXG5",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AVXG5"
+    ],
+    "tokens": [
+      "anduril",
+      "bond",
+      "bonds",
+      "co",
+      "cometum",
+      "de000a4avxg5",
+      "direct",
+      "further",
+      "gmbh",
+      "invest",
+      "kg",
+      "of",
+      "proceeds",
+      "transfer",
+      "use"
+    ]
+  },
+  {
+    "id": "issue_1259696fc1e9",
+    "slug": "A86796182_8f5c63c1d163",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "HAUSERA PROPERTY MANAGER SPV 3 SA",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_8f5c63c1d163",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "hausera",
+      "inscribir",
+      "la",
+      "manager",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "property",
+      "real",
+      "registro",
+      "sa",
+      "spv",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_131408b4f33a",
+    "slug": "AT0000A3PGJ0",
+    "name": "EWIA Zweckgesellschaft 1 GmbH",
+    "issuer": "EWIA Zweckgesellschaft 1 GmbH",
+    "isin": "AT0000A3PGJ0",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3PGJ0",
+      "0xf4D9F43eD4580698f154931E3894026EaAe3a026"
+    ],
+    "tokens": [
+      "at0000a3pgj0",
+      "ewia",
+      "gmbh",
+      "zweckgesellschaft"
+    ]
+  },
+  {
+    "id": "issue_15698b8be7f6",
+    "slug": "AT0000A3SEA8",
+    "name": "My Gym Nachranganleihe 2026",
+    "issuer": "My Gym Verwaltungs GmbH",
+    "isin": "AT0000A3SEA8",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3SEA8",
+      "0x5971B0825BAa48385d54da9CB0c93dE070F7600A"
+    ],
+    "tokens": [
+      "2026",
+      "at0000a3sea8",
+      "gmbh",
+      "gym",
+      "my",
+      "nachranganleihe",
+      "verwaltungs"
+    ]
+  },
+  {
+    "id": "issue_174547cfe7dd",
+    "slug": "DE000A4AU208",
+    "name": "Anthropic Bond",
+    "issuer": "Cometum Direct Invest I GmbH & Co. KG",
+    "isin": "DE000A4AU208",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AU208",
+      "0xB76DB9b6978125ca68A9d89172AAf6e307aE747c"
+    ],
+    "tokens": [
+      "anthropic",
+      "bond",
+      "co",
+      "cometum",
+      "de000a4au208",
+      "direct",
+      "gmbh",
+      "invest",
+      "kg"
+    ]
+  },
+  {
+    "id": "issue_1b60db7fe46c",
+    "slug": "DE000A4AVXP6",
+    "name": "Polymarket Bond",
+    "issuer": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG",
+    "isin": "DE000A4AVXP6",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AVXP6"
+    ],
+    "tokens": [
+      "bond",
+      "bonds",
+      "co",
+      "cometum",
+      "de000a4avxp6",
+      "direct",
+      "further",
+      "gmbh",
+      "invest",
+      "kg",
+      "of",
+      "polymarket",
+      "proceeds",
+      "transfer",
+      "use"
+    ]
+  },
+  {
+    "id": "issue_1c3bba3d0fba",
+    "slug": "AT0000A3T1U6",
+    "name": "Übergossene Alm 2026",
+    "issuer": "Alois Burgschwaiger Gesellschaft mit beschränkter Haftung",
+    "isin": "AT0000A3T1U6",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3T1U6",
+      "0x3724416f2dA6dc25b8497f15CA05729f1aeB8f9f"
+    ],
+    "tokens": [
+      "2026",
+      "alm",
+      "alois",
+      "at0000a3t1u6",
+      "beschränkter",
+      "burgschwaiger",
+      "gesellschaft",
+      "haftung",
+      "mit",
+      "übergossene"
+    ]
+  },
+  {
+    "id": "issue_1d7e4c5b3764",
+    "slug": "A86796182_f3eae1f36414",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "REENTAL TOURIST HOMES, S.A.U.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_f3eae1f36414",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "homes",
+      "inscribir",
+      "la",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "real",
+      "reental",
+      "registro",
+      "tourist",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_200638510ae9",
+    "slug": "DE000A5GS1A0",
+    "name": "DEVOLO solutions",
+    "issuer": "devolo solutions GmbH",
+    "isin": "DE000A5GS1A0",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A5GS1A0",
+      "0xFfA9A7365E76eEEDF262f6205bA666E3237B2150"
+    ],
+    "tokens": [
+      "de000a5gs1a0",
+      "devolo",
+      "gmbh",
+      "solutions"
+    ]
+  },
+  {
+    "id": "issue_211f117b043a",
+    "slug": "CH1462229902",
+    "name": "0.9525 Lug 35 TOK",
+    "issuer": "506700IIY296BEGWFZ02",
+    "isin": "CH1462229902",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1462229902",
+      "146222990",
+      "4A7"
+    ],
+    "tokens": [
+      "35",
+      "506700iiy296begwfz02",
+      "9525",
+      "ch1462229902",
+      "lug",
+      "tok"
+    ]
+  },
+  {
+    "id": "issue_2189198a2123",
+    "slug": "DE000A4ZZA75",
+    "name": "Beets & Roots Genussschein 2026",
+    "issuer": "Secupay AG",
+    "isin": "DE000A4ZZA75",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4ZZA75",
+      "0xC528552A7ED6192799E34801772bFdDa0d0f1E71"
+    ],
+    "tokens": [
+      "2026",
+      "ag",
+      "beets",
+      "de000a4zza75",
+      "genussschein",
+      "roots",
+      "secupay"
+    ]
+  },
+  {
+    "id": "issue_22e0dacc66a3",
+    "slug": "CH1265890678",
+    "name": "1.3 Bond 23-27 Kt. BS",
+    "issuer": "Canton of Basel-City",
+    "isin": "CH1265890678",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1265890678",
+      "126589067",
+      "11A1"
+    ],
+    "tokens": [
+      "23",
+      "27",
+      "basel",
+      "bond",
+      "bs",
+      "canton",
+      "ch1265890678",
+      "city",
+      "kt",
+      "of"
+    ]
+  },
+  {
+    "id": "issue_24d401671846",
+    "slug": "A86796182_12d610ecb0fc",
+    "name": "Emisión de acciones por importe de 7.962.816€ y transformación en S.A. inscrita en el Registro Mercantil el 8/5/2025: In",
+    "issuer": "BESELF BRANDS, S.L.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "2025",
+      "816",
+      "962",
+      "a86796182_12d610ecb0fc",
+      "acciones",
+      "beself",
+      "brands",
+      "de",
+      "el",
+      "emisión",
+      "en",
+      "importe",
+      "in",
+      "inscrita",
+      "mercantil",
+      "por",
+      "registro",
+      "transformación"
+    ]
+  },
+  {
+    "id": "issue_2804a7b06c14",
+    "slug": "DE000A4EXNM2",
+    "name": "Simpleros Bonds X",
+    "issuer": "SIMPLEROS, S.L.",
+    "isin": "DE000A4EXNM2",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4EXNM2",
+      "0xA418489C389038E0C0BF045Fe32D4C6f1438B5F2"
+    ],
+    "tokens": [
+      "bonds",
+      "de000a4exnm2",
+      "simpleros"
+    ]
+  },
+  {
+    "id": "issue_28616bce30d6",
+    "slug": "DE000A46ZZW6",
+    "name": "FOX Living",
+    "issuer": "Co. GmbH & Co. KG",
+    "isin": "DE000A46ZZW6",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A46ZZW6",
+      "0xC425E1830A5b4B3d9F8434809651370999b389F3"
+    ],
+    "tokens": [
+      "co",
+      "de000a46zzw6",
+      "fox",
+      "gmbh",
+      "kg",
+      "living"
+    ]
+  },
+  {
+    "id": "issue_295d770bf1cf",
+    "slug": "A86796182_4cc39f3a1b35",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "PROPTECH SPV2 BUSINESS S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_4cc39f3a1b35",
+      "artículo",
+      "business",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "inscribir",
+      "la",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "proptech",
+      "real",
+      "registro",
+      "spv2",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_2c3f334adcc3",
+    "slug": "A86796182_ba57bd6611ca",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "HAUSERA PROPERTY MANAGER SPV 5, S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_ba57bd6611ca",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "hausera",
+      "inscribir",
+      "la",
+      "manager",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "property",
+      "real",
+      "registro",
+      "spv",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_2cb2f050457a",
+    "slug": "CH1348614202",
+    "name": "1.5075 UBSS 29 Pf",
+    "issuer": "549300WOIFUSNYH0FL22",
+    "isin": "CH1348614202",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1348614202",
+      "134861420",
+      "4A3"
+    ],
+    "tokens": [
+      "29",
+      "5075",
+      "549300woifusnyh0fl22",
+      "ch1348614202",
+      "pf",
+      "ubss"
+    ]
+  },
+  {
+    "id": "issue_2dc3c4ad19c9",
+    "slug": "CH1232107172",
+    "name": "1.625 St. LU 23-29",
+    "issuer": "506700IIY296BEGWFZ02",
+    "isin": "CH1232107172",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1232107172",
+      "123210717",
+      "3A2"
+    ],
+    "tokens": [
+      "23",
+      "29",
+      "506700iiy296begwfz02",
+      "625",
+      "ch1232107172",
+      "lu",
+      "st"
+    ]
+  },
+  {
+    "id": "issue_2decb9149b1e",
+    "slug": "AT0000A3QMN8",
+    "name": "Skygate Aviation Academy GmbH",
+    "issuer": "Skygate Aviation Academy GmbH",
+    "isin": "AT0000A3QMN8",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3QMN8",
+      "0x7555EA92A489A58414E55996F18D89992c31D64e"
+    ],
+    "tokens": [
+      "academy",
+      "at0000a3qmn8",
+      "aviation",
+      "gmbh",
+      "skygate"
+    ]
+  },
+  {
+    "id": "issue_2f9bfed82c64",
+    "slug": "CH1423948566",
+    "name": "KRED.F.WIED.25/33 MTN SF",
+    "issuer": "549300GDPG70E3MBBU98",
+    "isin": "CH1423948566",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1423948566",
+      "142394856",
+      "15A2"
+    ],
+    "tokens": [
+      "25",
+      "33",
+      "549300gdpg70e3mbbu98",
+      "ch1423948566",
+      "kred",
+      "mtn",
+      "sf",
+      "wied"
+    ]
+  },
+  {
+    "id": "issue_34848f7a723d",
+    "slug": "A86796182_65f275ef8266",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "HAUSERA PROPERTY MANAGER SPV 4, S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_65f275ef8266",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "hausera",
+      "inscribir",
+      "la",
+      "manager",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "property",
+      "real",
+      "registro",
+      "spv",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_3749face7f7a",
+    "slug": "DE000A460FM0",
+    "name": "EWIA Nachranganleihe Impact Ghana Portfolio 1",
+    "issuer": "EWIA Impact I UG",
+    "isin": "DE000A460FM0",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A460FM0",
+      "0x046F1938328d264FCef92FD353b1759F94C4562E"
+    ],
+    "tokens": [
+      "de000a460fm0",
+      "ewia",
+      "ghana",
+      "impact",
+      "nachranganleihe",
+      "portfolio",
+      "ug"
+    ]
+  },
+  {
+    "id": "issue_3df3fb937e47",
+    "slug": "CH1319968462",
+    "name": "1.415 St. LU 24-34",
+    "issuer": "506700IIY296BEGWFZ02",
+    "isin": "CH1319968462",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1319968462",
+      "131996846",
+      "3A4"
+    ],
+    "tokens": [
+      "24",
+      "34",
+      "415",
+      "506700iiy296begwfz02",
+      "ch1319968462",
+      "lu",
+      "st"
+    ]
+  },
+  {
+    "id": "issue_406a48d28805",
+    "slug": "CH1484612093",
+    "name": "Africa Finance Corporation",
+    "issuer": "213800LXFHRRXIJRXW97",
+    "isin": "CH1484612093",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1484612093",
+      "148461209",
+      "15A5"
+    ],
+    "tokens": [
+      "213800lxfhrrxijrxw97",
+      "africa",
+      "ch1484612093",
+      "corporation",
+      "finance"
+    ]
+  },
+  {
+    "id": "issue_43c26883da23",
+    "slug": "DE000A4AU9L3",
+    "name": "Cometum: Anthropic Bond",
+    "issuer": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG",
+    "isin": "DE000A4AU9L3",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AU9L3"
+    ],
+    "tokens": [
+      "anthropic",
+      "bond",
+      "bonds",
+      "co",
+      "cometum",
+      "de000a4au9l3",
+      "direct",
+      "further",
+      "gmbh",
+      "invest",
+      "kg",
+      "of",
+      "proceeds",
+      "transfer",
+      "use"
+    ]
+  },
+  {
+    "id": "issue_43cee1ceeb95",
+    "slug": "DE000A4AVXK7",
+    "name": "Mistral AI Bond",
+    "issuer": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG",
+    "isin": "DE000A4AVXK7",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AVXK7"
+    ],
+    "tokens": [
+      "ai",
+      "bond",
+      "bonds",
+      "co",
+      "cometum",
+      "de000a4avxk7",
+      "direct",
+      "further",
+      "gmbh",
+      "invest",
+      "kg",
+      "mistral",
+      "of",
+      "proceeds",
+      "transfer",
+      "use"
+    ]
+  },
+  {
+    "id": "issue_4a994eb84c8d",
+    "slug": "A86796182_359031e41f30",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "PROPTECH SPV TRES, S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_359031e41f30",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "inscribir",
+      "la",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "proptech",
+      "real",
+      "registro",
+      "spv",
+      "tres",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_4b9cdcf0f4d5",
+    "slug": "CH1290991384",
+    "name": "0.80 BLKB 25-27",
+    "issuer": "529900TPRILCY8WVKI23",
+    "isin": "CH1290991384",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1290991384",
+      "129099138",
+      "19A1"
+    ],
+    "tokens": [
+      "25",
+      "27",
+      "529900tprilcy8wvki23",
+      "80",
+      "blkb",
+      "ch1290991384"
+    ]
+  },
+  {
+    "id": "issue_4e8d50ac6c2b",
+    "slug": "CH1306117073",
+    "name": "1.45 Kt ZH 23-34",
+    "issuer": "5067000JHM0Z8259CW65",
+    "isin": "CH1306117073",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1306117073",
+      "130611707",
+      "3A3"
+    ],
+    "tokens": [
+      "23",
+      "34",
+      "45",
+      "5067000jhm0z8259cw65",
+      "ch1306117073",
+      "kt",
+      "zh"
+    ]
+  },
+  {
+    "id": "issue_52b918449989",
+    "slug": "AT0000A3T1T8",
+    "name": "Übergossene Alm 2026",
+    "issuer": "Alois Burgschwaiger Gesellschaft mit beschränkter Haftung",
+    "isin": "AT0000A3T1T8",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3T1T8",
+      "0xD0D3B660a685744237E64d92eAd162936a9C7026"
+    ],
+    "tokens": [
+      "2026",
+      "alm",
+      "alois",
+      "at0000a3t1t8",
+      "beschränkter",
+      "burgschwaiger",
+      "gesellschaft",
+      "haftung",
+      "mit",
+      "übergossene"
+    ]
+  },
+  {
+    "id": "issue_5a1d8a32d5ca",
+    "slug": "A86796182_ef86f35f9b8b",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "HAUSERA PROPERTY MANAGER SPV 2 SA",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_ef86f35f9b8b",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "hausera",
+      "inscribir",
+      "la",
+      "manager",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "property",
+      "real",
+      "registro",
+      "sa",
+      "spv",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_5b0d9e7b0f1b",
+    "slug": "AT0000A3R4K3",
+    "name": "Super Power Generation GmbH 2025",
+    "issuer": "Super Power Generation GmbH",
+    "isin": "AT0000A3R4K3",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3R4K3",
+      "0xF51187ecE712b937F1442404fdab02Bb058dF5AD"
+    ],
+    "tokens": [
+      "2025",
+      "at0000a3r4k3",
+      "generation",
+      "gmbh",
+      "power",
+      "super"
+    ]
+  },
+  {
+    "id": "issue_624a14e71d9c",
+    "slug": "LT0000135774",
+    "name": "LHM 9% 2Y bond",
+    "issuer": "LHM Holding UAB",
+    "isin": "LT0000135774",
+    "jurisdiction": "LT",
+    "identifiers": [
+      "LT0000135774",
+      "2Z3NCT0CN"
+    ],
+    "tokens": [
+      "2y",
+      "bond",
+      "holding",
+      "lhm",
+      "lt0000135774",
+      "uab"
+    ]
+  },
+  {
+    "id": "issue_63fc190c0526",
+    "slug": "CH1522231369",
+    "name": "0.5075 KFW 34 TOK",
+    "issuer": "549300GDPG70E3MBBU98",
+    "isin": "CH1522231369",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1522231369",
+      "152223136",
+      "4A9"
+    ],
+    "tokens": [
+      "34",
+      "5075",
+      "549300gdpg70e3mbbu98",
+      "ch1522231369",
+      "kfw",
+      "tok"
+    ]
+  },
+  {
+    "id": "issue_6c15ee4e4643",
+    "slug": "DE000A4E0QJ3",
+    "name": "AEP2 FNZ GmbH",
+    "issuer": "AEP2 FNZ GmbH",
+    "isin": "DE000A4E0QJ3",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4E0QJ3",
+      "0x913984B70F9aD692b0960623D71F759c8C7E77A3"
+    ],
+    "tokens": [
+      "aep2",
+      "de000a4e0qj3",
+      "fnz",
+      "gmbh"
+    ]
+  },
+  {
+    "id": "issue_6fe4bb2062f6",
+    "slug": "A86796182_262175ca405a",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "OTESA SPV CAL, S.L.U",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_262175ca405a",
+      "artículo",
+      "cal",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "inscribir",
+      "la",
+      "mercado",
+      "nacional",
+      "oficial",
+      "otesa",
+      "previsto",
+      "real",
+      "registro",
+      "spv",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_711cb1d34c8c",
+    "slug": "DE000A4AVXQ4",
+    "name": "Cometum: ShieldAI Bond",
+    "issuer": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG",
+    "isin": "DE000A4AVXQ4",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AVXQ4"
+    ],
+    "tokens": [
+      "bond",
+      "bonds",
+      "co",
+      "cometum",
+      "de000a4avxq4",
+      "direct",
+      "further",
+      "gmbh",
+      "invest",
+      "kg",
+      "of",
+      "proceeds",
+      "shieldai",
+      "transfer",
+      "use"
+    ]
+  },
+  {
+    "id": "issue_724fb64d0956",
+    "slug": "A86796182_d05e0baefef9",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "HISPANIA DEFENSE SOLUTIONS, S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_d05e0baefef9",
+      "artículo",
+      "comisión",
+      "de",
+      "defense",
+      "del",
+      "el",
+      "en",
+      "hispania",
+      "inscribir",
+      "la",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "real",
+      "registro",
+      "solutions",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_74f3b8c4c943",
+    "slug": "A86796182_172030c6cb94",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "RONA HABITAT, S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_172030c6cb94",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "habitat",
+      "inscribir",
+      "la",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "real",
+      "registro",
+      "rona",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_7a2f5a2b70d2",
+    "slug": "CH1331113444",
+    "name": "1.25 St SG 27",
+    "issuer": "50670080RB4Z76C34822",
+    "isin": "CH1331113444",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1331113444",
+      "133111344",
+      "4A2"
+    ],
+    "tokens": [
+      "25",
+      "27",
+      "50670080rb4z76c34822",
+      "ch1331113444",
+      "sg",
+      "st"
+    ]
+  },
+  {
+    "id": "issue_7aa0b23fa779",
+    "slug": "AT0000A3QG63",
+    "name": "Mörwald Holding GmbH",
+    "issuer": "Mörwald Holding GmbH",
+    "isin": "AT0000A3QG63",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3QG63",
+      "0x1fB0180D2c08c683cD2D8A42B23049638B319E3D"
+    ],
+    "tokens": [
+      "at0000a3qg63",
+      "gmbh",
+      "holding",
+      "mörwald"
+    ]
+  },
+  {
+    "id": "issue_7eaa064bcc6a",
+    "slug": "DE000A4AUXL7",
+    "name": "MFC GOLDTOKEN Professional One",
+    "issuer": "Struktur) Präambel Die MFC Edelmetalle GmbH",
+    "isin": "DE000A4AUXL7",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AUXL7",
+      "0xD3A88FC8927D2779bBb9FC422d628883ecf7FC6c"
+    ],
+    "tokens": [
+      "de000a4auxl7",
+      "die",
+      "edelmetalle",
+      "gmbh",
+      "goldtoken",
+      "mfc",
+      "one",
+      "professional",
+      "präambel",
+      "struktur"
+    ]
+  },
+  {
+    "id": "issue_81f0614a9783",
+    "slug": "DE000A4AVXH3",
+    "name": "Higgsfield AI Bond",
+    "issuer": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG",
+    "isin": "DE000A4AVXH3",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AVXH3"
+    ],
+    "tokens": [
+      "ai",
+      "bond",
+      "bonds",
+      "co",
+      "cometum",
+      "de000a4avxh3",
+      "direct",
+      "further",
+      "gmbh",
+      "higgsfield",
+      "invest",
+      "kg",
+      "of",
+      "proceeds",
+      "transfer",
+      "use"
+    ]
+  },
+  {
+    "id": "issue_84ca4cc6b8f7",
+    "slug": "FI4000606249",
+    "name": "Nordic Urban Oy",
+    "issuer": "Nordic Urban Oy",
+    "isin": "FI4000606249",
+    "jurisdiction": "FI",
+    "identifiers": [
+      "FI4000606249",
+      "0xc4F74a6cF330feeD15089f0d2Ab4d644dB3E3d62"
+    ],
+    "tokens": [
+      "fi4000606249",
+      "nordic",
+      "oy",
+      "urban"
+    ]
+  },
+  {
+    "id": "issue_887fcae8a009",
+    "slug": "CH1353258168",
+    "name": "WORLD BK 24/31 MTN",
+    "issuer": "International Bank for Reconstruction and Development",
+    "isin": "CH1353258168",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1353258168",
+      "135325816",
+      "15A1"
+    ],
+    "tokens": [
+      "24",
+      "31",
+      "and",
+      "bank",
+      "bk",
+      "ch1353258168",
+      "development",
+      "for",
+      "international",
+      "mtn",
+      "reconstruction",
+      "world"
+    ]
+  },
+  {
+    "id": "issue_895d45cce04a",
+    "slug": "DE000A4AVXR2",
+    "name": "Cometum: Stripe Bond",
+    "issuer": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG",
+    "isin": "DE000A4AVXR2",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AVXR2"
+    ],
+    "tokens": [
+      "bond",
+      "bonds",
+      "co",
+      "cometum",
+      "de000a4avxr2",
+      "direct",
+      "further",
+      "gmbh",
+      "invest",
+      "kg",
+      "of",
+      "proceeds",
+      "stripe",
+      "transfer",
+      "use"
+    ]
+  },
+  {
+    "id": "issue_8af256df5cd2",
+    "slug": "LT0000137069",
+    "name": "EUR 8.00 NORDSPACE PROJEKTAI OBLIGACIJOS 26-2027",
+    "issuer": "UAB NordSpace Projektai",
+    "isin": "LT0000137069",
+    "jurisdiction": "LT",
+    "identifiers": [
+      "LT0000137069"
+    ],
+    "tokens": [
+      "00",
+      "2027",
+      "26",
+      "eur",
+      "lt0000137069",
+      "nordspace",
+      "obligacijos",
+      "projektai",
+      "uab"
+    ]
+  },
+  {
+    "id": "issue_8b118aaa3ecf",
+    "slug": "AT0000A3RGG2",
+    "name": "KAPO Fenster und Türen GmbH",
+    "issuer": "KAPO Fenster und Türen GmbH",
+    "isin": "AT0000A3RGG2",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3RGG2",
+      "0x1e869F989F126d157dC25d80896Fad07904c1342"
+    ],
+    "tokens": [
+      "at0000a3rgg2",
+      "fenster",
+      "gmbh",
+      "kapo",
+      "türen",
+      "und"
+    ]
+  },
+  {
+    "id": "issue_8cef5f477d28",
+    "slug": "CH1454185807",
+    "name": "0.3725 KFW 32 TOK",
+    "issuer": "549300GDPG70E3MBBU98",
+    "isin": "CH1454185807",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1454185807",
+      "145418580",
+      "4A6"
+    ],
+    "tokens": [
+      "32",
+      "3725",
+      "549300gdpg70e3mbbu98",
+      "ch1454185807",
+      "kfw",
+      "tok"
+    ]
+  },
+  {
+    "id": "issue_95cf9dbf7956",
+    "slug": "Private_Placement_9",
+    "name": "Private Placement 9",
+    "issuer": null,
+    "isin": null,
+    "jurisdiction": "DE/EU",
+    "identifiers": [],
+    "tokens": [
+      "placement",
+      "private",
+      "private_placement_9"
+    ]
+  },
+  {
+    "id": "issue_9875289856d0",
+    "slug": "DE000A4AVXN1",
+    "name": "PerplexityAI Bond",
+    "issuer": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG",
+    "isin": "DE000A4AVXN1",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AVXN1"
+    ],
+    "tokens": [
+      "bond",
+      "bonds",
+      "co",
+      "cometum",
+      "de000a4avxn1",
+      "direct",
+      "further",
+      "gmbh",
+      "invest",
+      "kg",
+      "of",
+      "perplexityai",
+      "proceeds",
+      "transfer",
+      "use"
+    ]
+  },
+  {
+    "id": "issue_9b3a8774d4ba",
+    "slug": "DE000A5GS1B8",
+    "name": "DEVOLO solutions",
+    "issuer": "devolo solutions GmbH",
+    "isin": "DE000A5GS1B8",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A5GS1B8",
+      "0x0d22E6338cF242F07fa5601Cf169e8ADD864Bd2b"
+    ],
+    "tokens": [
+      "de000a5gs1b8",
+      "devolo",
+      "gmbh",
+      "solutions"
+    ]
+  },
+  {
+    "id": "issue_9bcc63535e54",
+    "slug": "DE000A4AVXX0",
+    "name": "Stripe Bond",
+    "issuer": "Cometum Direct Invest III GmbH & Co. KG",
+    "isin": "DE000A4AVXX0",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AVXX0",
+      "0x9d13cD8dE72Eb5f9d216AA17fe75d3039d27Bc4d"
+    ],
+    "tokens": [
+      "bond",
+      "co",
+      "cometum",
+      "de000a4avxx0",
+      "direct",
+      "gmbh",
+      "iii",
+      "invest",
+      "kg",
+      "stripe"
+    ]
+  },
+  {
+    "id": "issue_9d6cc1841be8",
+    "slug": "CH1537606795",
+    "name": "1.44 RAI 26-33",
+    "issuer": "5299006GIHQ1ELISCV48",
+    "isin": "CH1537606795",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1537606795",
+      "153760679",
+      "16A1"
+    ],
+    "tokens": [
+      "26",
+      "33",
+      "44",
+      "5299006gihq1eliscv48",
+      "ch1537606795",
+      "rai"
+    ]
+  },
+  {
+    "id": "issue_a502aeda31a1",
+    "slug": "AT0000A3T394",
+    "name": "we are travel INVEST GmbH",
+    "issuer": "we-are.travel INVEST GmbH",
+    "isin": "AT0000A3T394",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3T394",
+      "0x2a9722C89cD3b645d8297424C78889F98063bb74"
+    ],
+    "tokens": [
+      "are",
+      "at0000a3t394",
+      "gmbh",
+      "invest",
+      "travel",
+      "we"
+    ]
+  },
+  {
+    "id": "issue_a72af8351897",
+    "slug": "DE000A4AVXJ9",
+    "name": "Kraken Bond",
+    "issuer": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG",
+    "isin": "DE000A4AVXJ9",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AVXJ9"
+    ],
+    "tokens": [
+      "bond",
+      "bonds",
+      "co",
+      "cometum",
+      "de000a4avxj9",
+      "direct",
+      "further",
+      "gmbh",
+      "invest",
+      "kg",
+      "kraken",
+      "of",
+      "proceeds",
+      "transfer",
+      "use"
+    ]
+  },
+  {
+    "id": "issue_aa696299f475",
+    "slug": "CH1449583603",
+    "name": "1 SIX Grp 32 S",
+    "issuer": "529900ZMNQFCPP762W05",
+    "isin": "CH1449583603",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1449583603",
+      "144958360",
+      "4A5"
+    ],
+    "tokens": [
+      "32",
+      "529900zmnqfcpp762w05",
+      "ch1449583603",
+      "grp",
+      "six"
+    ]
+  },
+  {
+    "id": "issue_abe8e519a82a",
+    "slug": "LT0000137671",
+    "name": "EUR 6.50-9.50 UAB GESONS OBLIGACIJOS 26-2028",
+    "issuer": "UAB Gesons",
+    "isin": "LT0000137671",
+    "jurisdiction": "LT",
+    "identifiers": [
+      "LT0000137671"
+    ],
+    "tokens": [
+      "2028",
+      "26",
+      "50",
+      "eur",
+      "gesons",
+      "lt0000137671",
+      "obligacijos",
+      "uab"
+    ]
+  },
+  {
+    "id": "issue_ad795e0db520",
+    "slug": "DE000A46ZYQ1",
+    "name": "Wohngenossenschaft Fleur de Selent eG",
+    "issuer": "Fleur de Selent eG",
+    "isin": "DE000A46ZYQ1",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A46ZYQ1",
+      "0x87129BEe85BA5eaB4bDe17198Ef9aF2C3E605652"
+    ],
+    "tokens": [
+      "de",
+      "de000a46zyq1",
+      "eg",
+      "fleur",
+      "selent",
+      "wohngenossenschaft"
+    ]
+  },
+  {
+    "id": "issue_aeb44e956dff",
+    "slug": "CH1142754337",
+    "name": "0.125 SIX Grp 26 Bd",
+    "issuer": "529900ZMNQFCPP762W05",
+    "isin": "CH1142754337",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1142754337",
+      "114275433",
+      "6A1"
+    ],
+    "tokens": [
+      "125",
+      "26",
+      "529900zmnqfcpp762w05",
+      "bd",
+      "ch1142754337",
+      "grp",
+      "six"
+    ]
+  },
+  {
+    "id": "issue_b31e0f98ec67",
+    "slug": "DE000A4AVXL5",
+    "name": "Neuralink Bond",
+    "issuer": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG",
+    "isin": "DE000A4AVXL5",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AVXL5"
+    ],
+    "tokens": [
+      "bond",
+      "bonds",
+      "co",
+      "cometum",
+      "de000a4avxl5",
+      "direct",
+      "further",
+      "gmbh",
+      "invest",
+      "kg",
+      "neuralink",
+      "of",
+      "proceeds",
+      "transfer",
+      "use"
+    ]
+  },
+  {
+    "id": "issue_b37aad8b18df",
+    "slug": "FI4000602966",
+    "name": "Flagmore Group Oy",
+    "issuer": "Flagmore Group Oy",
+    "isin": "FI4000602966",
+    "jurisdiction": "FI",
+    "identifiers": [
+      "FI4000602966",
+      "0x73A3c0aA23a33a1F785541e58C7Fde98A317631B"
+    ],
+    "tokens": [
+      "fi4000602966",
+      "flagmore",
+      "group",
+      "oy"
+    ]
+  },
+  {
+    "id": "issue_b4706adf6b42",
+    "slug": "CH1484612085",
+    "name": "Kred.f.Wied 26/35 MTN SF",
+    "issuer": "549300GDPG70E3MBBU98",
+    "isin": "CH1484612085",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1484612085",
+      "148461208",
+      "15A4"
+    ],
+    "tokens": [
+      "26",
+      "35",
+      "549300gdpg70e3mbbu98",
+      "ch1484612085",
+      "kred",
+      "mtn",
+      "sf",
+      "wied"
+    ]
+  },
+  {
+    "id": "issue_b4709ffecdaf",
+    "slug": "A86796182_f971682d9ae6",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "GESTION DE INVERSIONES Y PROYECTOS INMOBILIARIOS 2025, S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [
+      "FDX001"
+    ],
+    "tokens": [
+      "2025",
+      "a86796182_f971682d9ae6",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "gestion",
+      "inmobiliarios",
+      "inscribir",
+      "inversiones",
+      "la",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "proyectos",
+      "real",
+      "registro",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_b60b3c520c74",
+    "slug": "CH1433241267",
+    "name": "0.6125 StLug 32",
+    "issuer": "506700IIY296BEGWFZ02",
+    "isin": "CH1433241267",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1433241267",
+      "143324126",
+      "4A4"
+    ],
+    "tokens": [
+      "32",
+      "506700iiy296begwfz02",
+      "6125",
+      "ch1433241267",
+      "stlug"
+    ]
+  },
+  {
+    "id": "issue_b72b486f1363",
+    "slug": "CH1392903543",
+    "name": "1.0 St. LUG 24-33",
+    "issuer": "506700IIY296BEGWFZ02",
+    "isin": "CH1392903543",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1392903543",
+      "139290354",
+      "3A5"
+    ],
+    "tokens": [
+      "24",
+      "33",
+      "506700iiy296begwfz02",
+      "ch1392903543",
+      "lug",
+      "st"
+    ]
+  },
+  {
+    "id": "issue_bb9e3de1bd97",
+    "slug": "A86796182_625a358f2987",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "HAUSERA PROPERTY MANAGER SPV 6 SA",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_625a358f2987",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "hausera",
+      "inscribir",
+      "la",
+      "manager",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "property",
+      "real",
+      "registro",
+      "sa",
+      "spv",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_c0f2103e3872",
+    "slug": "A86796182_f3bfde93e351",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "VALORIX DIGITAL, S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_f3bfde93e351",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "digital",
+      "el",
+      "en",
+      "inscribir",
+      "la",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "real",
+      "registro",
+      "valores",
+      "valorix"
+    ]
+  },
+  {
+    "id": "issue_c287b80ab68d",
+    "slug": "A86796182_4625520bbaba",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "TOKENIX GLOBAL, S.L.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_4625520bbaba",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "global",
+      "inscribir",
+      "la",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "real",
+      "registro",
+      "tokenix",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_c5d6abf5489b",
+    "slug": "AT0000A3QMX7",
+    "name": "Vello GmbH",
+    "issuer": "VELLO GmbH",
+    "isin": "AT0000A3QMX7",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3QMX7",
+      "0xe5ad1ADdd4eAbC2A33B16C00640a8e50E47782cb"
+    ],
+    "tokens": [
+      "at0000a3qmx7",
+      "gmbh",
+      "vello"
+    ]
+  },
+  {
+    "id": "issue_c7e6f24b0acd",
+    "slug": "Private_Placement_10",
+    "name": "Private Placement 10",
+    "issuer": null,
+    "isin": null,
+    "jurisdiction": "DE/EU",
+    "identifiers": [],
+    "tokens": [
+      "10",
+      "placement",
+      "private",
+      "private_placement_10"
+    ]
+  },
+  {
+    "id": "issue_c9e24661a844",
+    "slug": "A86796182_8920b8ce1689",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "ARCA HABITATUM CAPITAL S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_8920b8ce1689",
+      "arca",
+      "artículo",
+      "capital",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "habitatum",
+      "inscribir",
+      "la",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "real",
+      "registro",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_cc1fc0c3458f",
+    "slug": "CH1199021903",
+    "name": "Tenity Group AG",
+    "issuer": "Tenity Group AG",
+    "isin": "CH1199021903",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1199021903",
+      "119902190",
+      "3A1"
+    ],
+    "tokens": [
+      "ag",
+      "ch1199021903",
+      "group",
+      "tenity"
+    ]
+  },
+  {
+    "id": "issue_d0d95c238957",
+    "slug": "CH1522231195",
+    "name": "0.9275 CAF 33 TOK",
+    "issuer": "Corporacion Andina de Fomento",
+    "isin": "CH1522231195",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1522231195",
+      "152223119",
+      "4A8"
+    ],
+    "tokens": [
+      "33",
+      "9275",
+      "andina",
+      "caf",
+      "ch1522231195",
+      "corporacion",
+      "de",
+      "fomento",
+      "tok"
+    ]
+  },
+  {
+    "id": "issue_d971377de6a9",
+    "slug": "DE000A5GS073",
+    "name": "FOX Living",
+    "issuer": "Co. GmbH & Co. KG",
+    "isin": "DE000A5GS073",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A5GS073",
+      "0x93906f94A5Bf07eeeA23c8Ed9f8E191CA6f74bdC"
+    ],
+    "tokens": [
+      "co",
+      "de000a5gs073",
+      "fox",
+      "gmbh",
+      "kg",
+      "living"
+    ]
+  },
+  {
+    "id": "issue_dcf07666df98",
+    "slug": "DE000A46ZYN8",
+    "name": "DN Group",
+    "issuer": "DN Group AG",
+    "isin": "DE000A46ZYN8",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A46ZYN8"
+    ],
+    "tokens": [
+      "ag",
+      "de000a46zyn8",
+      "dn",
+      "group"
+    ]
+  },
+  {
+    "id": "issue_e016bbe1d883",
+    "slug": "A86796182_f4966b9a70b6",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "HAUSERA PROPERTY MANAGER SPV, S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_f4966b9a70b6",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "hausera",
+      "inscribir",
+      "la",
+      "manager",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "property",
+      "real",
+      "registro",
+      "spv",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_e0bb5e98af7b",
+    "slug": "Private_Placement_11",
+    "name": "Private Placement 11",
+    "issuer": null,
+    "isin": null,
+    "jurisdiction": "DE/EU",
+    "identifiers": [],
+    "tokens": [
+      "11",
+      "placement",
+      "private",
+      "private_placement_11"
+    ]
+  },
+  {
+    "id": "issue_e98c00b38e3b",
+    "slug": "AT0000A3T386",
+    "name": "we are travel INVEST GmbH",
+    "issuer": "we-are.travel INVEST GmbH",
+    "isin": "AT0000A3T386",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3T386",
+      "0xE50Ec33b3F9FD2a302661275f66a490B07fAA2aF"
+    ],
+    "tokens": [
+      "are",
+      "at0000a3t386",
+      "gmbh",
+      "invest",
+      "travel",
+      "we"
+    ]
+  },
+  {
+    "id": "issue_ebba84ad7f09",
+    "slug": "DE000A4AVXM3",
+    "name": "OpenAI Bond",
+    "issuer": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG",
+    "isin": "DE000A4AVXM3",
+    "jurisdiction": "DE",
+    "identifiers": [
+      "DE000A4AVXM3"
+    ],
+    "tokens": [
+      "bond",
+      "bonds",
+      "co",
+      "cometum",
+      "de000a4avxm3",
+      "direct",
+      "further",
+      "gmbh",
+      "invest",
+      "kg",
+      "of",
+      "openai",
+      "proceeds",
+      "transfer",
+      "use"
+    ]
+  },
+  {
+    "id": "issue_edaef9f7780e",
+    "slug": "A86796182_2c1c8dab53d7",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "GESTION DE INVERSIONES Y PROYECTOS INMOBILIARIOS 2025, S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [
+      "FDX002"
+    ],
+    "tokens": [
+      "2025",
+      "a86796182_2c1c8dab53d7",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "gestion",
+      "inmobiliarios",
+      "inscribir",
+      "inversiones",
+      "la",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "proyectos",
+      "real",
+      "registro",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_eeeb283f1f15",
+    "slug": "AT0000A3WD68",
+    "name": "HEROSAN Healthcare GmbH",
+    "issuer": "HEROSAN Petcare GmbH",
+    "isin": "AT0000A3WD68",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3WD68",
+      "0xE41aC63bA630F28367FD67D5846F8DAFFBACCc5D"
+    ],
+    "tokens": [
+      "at0000a3wd68",
+      "gmbh",
+      "healthcare",
+      "herosan",
+      "petcare"
+    ]
+  },
+  {
+    "id": "issue_f182e1af910e",
+    "slug": "CH1472996953",
+    "name": "KRED.F.WIED.26/36 MTN SF",
+    "issuer": "549300GDPG70E3MBBU98",
+    "isin": "CH1472996953",
+    "jurisdiction": "CH",
+    "identifiers": [
+      "CH1472996953",
+      "147299695",
+      "15A3"
+    ],
+    "tokens": [
+      "26",
+      "36",
+      "549300gdpg70e3mbbu98",
+      "ch1472996953",
+      "kred",
+      "mtn",
+      "sf",
+      "wied"
+    ]
+  },
+  {
+    "id": "issue_f44731ebb807",
+    "slug": "LT0000137994",
+    "name": "EUR 9.50 UTIISIB UAB RIVERSIDE REAL ESTATE FUND OBLIGACIJOS 26-2029",
+    "issuer": "UTIISIB UAB Riverside real estate fund",
+    "isin": "LT0000137994",
+    "jurisdiction": "LT",
+    "identifiers": [
+      "LT0000137994"
+    ],
+    "tokens": [
+      "2029",
+      "26",
+      "50",
+      "estate",
+      "eur",
+      "fund",
+      "lt0000137994",
+      "obligacijos",
+      "real",
+      "riverside",
+      "uab",
+      "utiisib"
+    ]
+  },
+  {
+    "id": "issue_f4a84060e3b1",
+    "slug": "A86796182_18e68e517e52",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "7 ISLAS TOK, S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_18e68e517e52",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "inscribir",
+      "islas",
+      "la",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "real",
+      "registro",
+      "tok",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_f57202eeb12a",
+    "slug": "A86796182_f80eb58c7d48",
+    "name": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real De",
+    "issuer": "PROPTECH SPV SP S.A.",
+    "isin": null,
+    "jurisdiction": "ES",
+    "identifiers": [],
+    "tokens": [
+      "a86796182_f80eb58c7d48",
+      "artículo",
+      "comisión",
+      "de",
+      "del",
+      "el",
+      "en",
+      "inscribir",
+      "la",
+      "mercado",
+      "nacional",
+      "oficial",
+      "previsto",
+      "proptech",
+      "real",
+      "registro",
+      "sp",
+      "spv",
+      "valores"
+    ]
+  },
+  {
+    "id": "issue_f627cfca0f24",
+    "slug": "FI4000614813",
+    "name": "ACS-Infinity Ab",
+    "issuer": "ACS-Infinity Ab",
+    "isin": "FI4000614813",
+    "jurisdiction": "FI",
+    "identifiers": [
+      "FI4000614813",
+      "0x3C437FA43b023D534a1Ba43A223D00843c4351E1"
+    ],
+    "tokens": [
+      "ab",
+      "acs",
+      "fi4000614813",
+      "infinity"
+    ]
+  },
+  {
+    "id": "issue_f7210d886890",
+    "slug": "AT0000A3SE97",
+    "name": "My Gym Nachranganleihe 2026",
+    "issuer": "My Gym Verwaltungs GmbH",
+    "isin": "AT0000A3SE97",
+    "jurisdiction": "AT",
+    "identifiers": [
+      "AT0000A3SE97",
+      "0x8d0f24489f6811325Ae860Ee07bBDC7f64f70bb7"
+    ],
+    "tokens": [
+      "2026",
+      "at0000a3se97",
+      "gmbh",
+      "gym",
+      "my",
+      "nachranganleihe",
+      "verwaltungs"
+    ]
+  }
+]
