@@ -1,0 +1,139 @@
+{
+  "anchor": "DE000A4AVXN1",
+  "assertion_ids": [
+    "as_0150f519ed07",
+    "as_110a094a8a26",
+    "as_2bba53acbad5",
+    "as_4797dfaa1993",
+    "as_4b884f6544ac",
+    "as_5a61689528b9",
+    "as_a957c2a4682a",
+    "as_c7c10c26f06c",
+    "as_d0e24f34290e",
+    "as_f4ed0547874a"
+  ],
+  "conflicts": [],
+  "deep_traces": [],
+  "description": "PerplexityAI Bond",
+  "display_name": "PerplexityAI Bond",
+  "id": "issue_9875289856d0",
+  "identifiers": {
+    "asset_id": null,
+    "contract": null,
+    "dti": null,
+    "isin": "DE000A4AVXN1",
+    "issue_code": null,
+    "local_security_id": null
+  },
+  "instrument_type": {
+    "assertion_ids": [
+      "as_f4ed0547874a"
+    ],
+    "level": "TYPE_SOURCE_LITERAL",
+    "normalized": null,
+    "origin": "G0-D",
+    "value": "Bond Token"
+  },
+  "issue_facts": {
+    "amount": "50.000.000,00",
+    "amount_state": "SINGLE_SOURCE",
+    "currency": "EUR",
+    "interest_rate": null,
+    "issue_date": "May 15, 2026",
+    "listed_on_axiology": null,
+    "maturity_date": "May 16, 2029",
+    "nominal": "EUR 1000"
+  },
+  "issuer": {
+    "assertion_ids": [],
+    "capture_id": "tcap_6d6f255de44b",
+    "identifier": null,
+    "identifier_kind": null,
+    "level": "LEGAL_ISSUER_EXPLICIT",
+    "origin": "G0-R",
+    "url": "https://de000a4avxn1.register.nyala.de/PerplexityAI_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+    "value": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG"
+  },
+  "jurisdiction": "DE",
+  "ledger_representations": [
+    {
+      "assertion_ids": [
+        "as_d0e24f34290e"
+      ],
+      "asset_id": null,
+      "blockchain_url": "https://stellar.expert/explorer/public/asset/PRXAI-GCLH2HUPI6MHV76LQJIP4QZ6I2WSJTOGI22RNP4SXVREQOY36B4L5J36-2",
+      "contract": null,
+      "dti": null,
+      "id": "ledgerrep_7d8535c66de9",
+      "network": "Stellar",
+      "technical": {
+        "dimensions": {
+          "LEDGER_IDENTITY": "CORROBORATED",
+          "LEDGER_OBJECT": "REGISTRY_RECORD_OBSERVED",
+          "PROXY_TOPOLOGY": "NO_PROXY_EVIDENCE",
+          "PUBLIC_OBSERVABILITY": "PUBLIC_QUERYABLE",
+          "SOURCE_CODE": "NOT_APPLICABLE",
+          "TOKEN_STANDARD": "NOT_APPLICABLE"
+        },
+        "disposition": "TECHNICALLY_CORROBORATED"
+      },
+      "token_class_id": null
+    }
+  ],
+  "legal_model": "eWpG crypto securities register",
+  "market": {
+    "admission": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "cash_leg": {
+      "asset_type": "UNKNOWN",
+      "representation": "UNKNOWN"
+    },
+    "coordination": {
+      "model": "UNKNOWN"
+    },
+    "primary_disposition": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "securities_settlement": {
+      "actual_transaction_observed": "NOT_OBSERVED",
+      "capability": "UNKNOWN",
+      "ledger": "polygon_pos / stellar_public (G0-E)",
+      "mechanism": "UNKNOWN",
+      "system": "Smart Registry (KWP securities register)"
+    },
+    "trade": "NO_TRADE_FOUND"
+  },
+  "slug": "DE000A4AVXN1",
+  "source_family": "NYALA Smart Registry",
+  "source_id": "nyala_smart_registry",
+  "sources": [
+    {
+      "artifact_id": "art_b60269fb2a8986e2b17ffbe241ee06a40622e7f38c89fd75fff881168a3ad542",
+      "capture_id": "capture_81ff45765def",
+      "parser_id": "nyala_smart_registry",
+      "record_locator": "collection_item[31]",
+      "source_id": "nyala_smart_registry",
+      "source_locator": "https://www.nyala.de/en/products/electronic-securities"
+    },
+    {
+      "artifact_id": null,
+      "capture_id": "tcap_6d6f255de44b",
+      "note": "Post-freeze G0-R source exhaustion",
+      "source_id": "g0r_issuer_enrichment",
+      "source_locator": "https://de000a4avxn1.register.nyala.de/PerplexityAI_Bond_Terms_and_Conditions_Professional_Clients.pdf"
+    }
+  ],
+  "token_class_count": 0,
+  "token_classes": [],
+  "unknowns": [
+    {
+      "field": "cash_leg",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "coordination",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "public_trade",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    }
+  ]
+}
