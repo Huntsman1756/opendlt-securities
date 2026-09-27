@@ -1,0 +1,59 @@
+{
+  "all_pass": true,
+  "checks": [
+    {
+      "check": "P1 input integrity",
+      "ok": true
+    },
+    {
+      "check": "P2 product conservation",
+      "ok": true
+    },
+    {
+      "check": "P3 semantic goldens",
+      "ok": true
+    },
+    {
+      "check": "P4 search goldens",
+      "ok": true
+    },
+    {
+      "check": "P5 evidence refs",
+      "ok": true
+    },
+    {
+      "check": "P6 trace firewall",
+      "ok": true
+    },
+    {
+      "check": "P7 publication (no raw bytes)",
+      "ok": true
+    },
+    {
+      "check": "P8 determinism",
+      "ok": true
+    },
+    {
+      "check": "P9 offline build",
+      "ok": true
+    },
+    {
+      "check": "P10 browser journeys",
+      "ok": true
+    },
+    {
+      "check": "P11 responsive",
+      "ok": true
+    },
+    {
+      "check": "P12 accessibility (axe)",
+      "ok": true
+    },
+    {
+      "check": "P13 performance",
+      "ok": true
+    }
+  ],
+  "snapshot_id": "g1-3766da6cb52b",
+  "product_fingerprint": "3766da6cb52b44dcfeeb32dccd10fe089c45bf609641708a5f6cfdf931be498d"
+}

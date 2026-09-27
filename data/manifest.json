@@ -1,0 +1,28 @@
+{
+  "inputs": {
+    "data\\derived\\g0c\\source_records.jsonl": "151075bd1acd9fd2981c7fdbac07036f11975e068a60be100488a777c5850fda",
+    "data\\derived\\g0d\\canonical_entities.jsonl": "12676e9ffcdf9aee8302c52dd5294dca75ffe85f1f570865b6cb55c81ee03743",
+    "data\\derived\\g0d\\ledger_representations.jsonl": "e17d0169618f061ea2772702fbdf76d30e08e361a3870fe826d5a52296e923e4",
+    "data\\derived\\g0d\\security_instruments.jsonl": "6c6ca8dc89fbc532c8d6cee2a9c5e6978211fa29dd03b6249407910f6c0fb28c",
+    "data\\derived\\g0d\\security_issues.jsonl": "60dded90d90e9e8c19237dfcb461014c057a4398d9da6c1b76807ab1b294f135",
+    "data\\derived\\g0d\\token_classes.jsonl": "9e7aa005098d3fa67c00c45a7f4578a2805fc2ae124020c82ee99f9d10b82a86",
+    "data\\derived\\g0e\\technical_dispositions.jsonl": "4cda7b41ec0fa298ae9e733d493d1ce2eaf4db94de7704c1139f5e4f502f8398",
+    "data\\derived\\g0f\\end_to_end_traces.jsonl": "e973f9c3535fc4a5e68cfc882ca88b76dbfa76e0302ef63b7770c52733bd0f08",
+    "data\\derived\\g0f\\g0_final_matrix.json": "bed746cb2aa59f83641d3895b4f87f21e1251d92f28d64444981506d2e4ccced",
+    "data\\derived\\g0f\\issue_dispositions.jsonl": "74be046a491aa3eeab5881136ae7197f13eebc43cc1cd0e48bd6d0372b003c34",
+    "data\\derived\\g0f\\market_claims.jsonl": "232cc92bcd58b3d7641f45a855df605dc7bf879658c858672574f923f960490c",
+    "data\\derived\\g0r\\issuer_enrichment.jsonl": "51e1f2047e010a2825e045d8f13d68b6ea76adbd2dd1795482d14c5de9660ca2",
+    "data\\derived\\g0r\\type_enrichment.jsonl": "289765d3d8c116ed5789103e4eaba8f9bbc9532ed0399df09f92f37bc90a21a3"
+  },
+  "issues_dir_sha256": "c53fb0973f0900d8f77f8d1ec6ab910a5d5588d8b1700afafe46f7dbaf7f4444",
+  "outputs": {
+    "coverage.json": "008e78f4f4a4fb5a6814801a1bcc25c38f23f21f62cb606c54074b6111515614",
+    "gate_run.json": "bd3aae2c543fee964dde9bc2a8a9c4af1c8f97d074d035f1bf263a2dadc87806",
+    "manifest.json": "a372462ce5c807becd686a87f73333eae795126be8b17bf8e72e653c042621bc",
+    "product_snapshot.json": "fd9d5741d9a207bcbb3a69dc24450016754a0a670203fa4a96dbeafc061d1341",
+    "search_index.json": "476f382876bab771acd4c72d23463ecb003f431a7e43b085df1bb183192017ae",
+    "sources.json": "7e1e3eaba03ecd43491ddd8588e73ff29749362c34bc1e5c0c1f02256b4fc222"
+  },
+  "product_fingerprint": "3766da6cb52b44dcfeeb32dccd10fe089c45bf609641708a5f6cfdf931be498d",
+  "schema_version": "g1_manifest_v1"
+}

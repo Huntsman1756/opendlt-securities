@@ -1,0 +1,144 @@
+{
+  "anchor": "AT0000A3T394",
+  "assertion_ids": [
+    "as_0fb322d2c54e",
+    "as_156895c92a9e",
+    "as_275bdc8d03be",
+    "as_46588ca08244",
+    "as_7809877c44a5",
+    "as_9b8018b2556f",
+    "as_ba7e18cf698c",
+    "as_bcbf30bf695d",
+    "as_d19ed01a2e21",
+    "as_eed2f1cf9b6a",
+    "as_f39617f0fc81"
+  ],
+  "conflicts": [],
+  "deep_traces": [],
+  "description": "we are travel INVEST GmbH - Sachzins",
+  "display_name": "we are travel INVEST GmbH",
+  "id": "issue_a502aeda31a1",
+  "identifiers": {
+    "asset_id": null,
+    "contract": "0x2a9722C89cD3b645d8297424C78889F98063bb74",
+    "dti": null,
+    "isin": "AT0000A3T394",
+    "issue_code": null,
+    "local_security_id": null
+  },
+  "infrastructure_jurisdiction": "DE",
+  "instrument_type": {
+    "assertion_ids": [
+      "as_9b8018b2556f"
+    ],
+    "level": "TYPE_SOURCE_LITERAL",
+    "normalized": null,
+    "origin": "G0-D",
+    "value": "Bond Token"
+  },
+  "instrument_type_display": "Bond",
+  "isin_country": "AT",
+  "issue_facts": {
+    "amount": "703.500,00",
+    "amount_state": "SINGLE_SOURCE",
+    "currency": "EUR",
+    "interest_rate": 7.0,
+    "issue_date": "July 20, 2026",
+    "listed_on_axiology": null,
+    "maturity_date": "June 30, 2031",
+    "nominal": "EUR 500"
+  },
+  "issuer": {
+    "assertion_ids": [],
+    "capture_id": "tcap_3a31dcea8ede",
+    "identifier": null,
+    "identifier_kind": null,
+    "level": "LEGAL_ISSUER_EXPLICIT",
+    "origin": "G0-R",
+    "url": "https://at0000a3t386.register.nyala.de/Emissionsbedingungen__we-are.travel%20INVEST%20GmbH.pdf",
+    "value": "we-are.travel INVEST GmbH"
+  },
+  "jurisdiction": "DE",
+  "ledger_representations": [
+    {
+      "assertion_ids": [
+        "as_ba7e18cf698c"
+      ],
+      "asset_id": null,
+      "blockchain_url": "https://polygonscan.com/token/0x2a9722C89cD3b645d8297424C78889F98063bb74",
+      "contract": "0x2a9722C89cD3b645d8297424C78889F98063bb74",
+      "dti": null,
+      "id": "ledgerrep_4fc632b13128",
+      "network": "Polygon (EVM)",
+      "technical": {
+        "dimensions": {
+          "LEDGER_IDENTITY": "CORROBORATED",
+          "LEDGER_OBJECT": "CONTRACT_CODE_OBSERVED",
+          "PROXY_TOPOLOGY": "NO_PROXY_EVIDENCE",
+          "PUBLIC_OBSERVABILITY": "PUBLIC_QUERYABLE",
+          "SOURCE_CODE": "SOURCIFY_NO_MATCH",
+          "TOKEN_STANDARD": "ERC20_LIKE"
+        },
+        "disposition": "TECHNICALLY_CORROBORATED"
+      },
+      "token_class_id": null
+    }
+  ],
+  "legal_jurisdiction": "DE",
+  "legal_model": "eWpG crypto securities register",
+  "market": {
+    "admission": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "cash_leg": {
+      "asset_type": "UNKNOWN",
+      "representation": "UNKNOWN"
+    },
+    "coordination": {
+      "model": "UNKNOWN"
+    },
+    "primary_disposition": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "securities_settlement": {
+      "actual_transaction_observed": "NOT_OBSERVED",
+      "capability": "UNKNOWN",
+      "ledger": "polygon_pos / stellar_public (G0-E)",
+      "mechanism": "UNKNOWN",
+      "system": "Smart Registry (KWP securities register)"
+    },
+    "trade": "NO_TRADE_FOUND"
+  },
+  "slug": "AT0000A3T394",
+  "source_family": "NYALA Smart Registry",
+  "source_id": "nyala_smart_registry",
+  "sources": [
+    {
+      "artifact_id": "art_b60269fb2a8986e2b17ffbe241ee06a40622e7f38c89fd75fff881168a3ad542",
+      "capture_id": "capture_81ff45765def",
+      "parser_id": "nyala_smart_registry",
+      "record_locator": "collection_item[11]",
+      "source_id": "nyala_smart_registry",
+      "source_locator": "https://www.nyala.de/en/products/electronic-securities"
+    },
+    {
+      "artifact_id": null,
+      "capture_id": "tcap_3a31dcea8ede",
+      "note": "Post-freeze G0-R source exhaustion",
+      "source_id": "g0r_issuer_enrichment",
+      "source_locator": "https://at0000a3t386.register.nyala.de/Emissionsbedingungen__we-are.travel%20INVEST%20GmbH.pdf"
+    }
+  ],
+  "token_class_count": 0,
+  "token_classes": [],
+  "unknowns": [
+    {
+      "field": "cash_leg",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "coordination",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "public_trade",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    }
+  ]
+}

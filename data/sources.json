@@ -1,0 +1,83 @@
+[
+  {
+    "family": "CNMV ERIR",
+    "issue_count": 21,
+    "jurisdiction": "ES",
+    "locators": [
+      "https://www.cnmv.es/portal/consultas/esi/erir_esi?nif=A86796182&page=0",
+      "https://www.cnmv.es/portal/consultas/esi/erir_esi?nif=A86796182&page=1",
+      "https://www.cnmv.es/portal/consultas/esi/erir_esi?nif=A86796182&page=2"
+    ],
+    "source_id": "cnmv_erir_entity"
+  },
+  {
+    "family": "NYALA Smart Registry",
+    "issue_count": 48,
+    "jurisdiction": "DE",
+    "locators": [
+      "https://at0000a3pgj0.register.nyala.de/20250922SPV_Genussschein_EWIA_UpdatedISIN.pdf",
+      "https://at0000a3qg63.register.nyala.de/20251030_Emissionsbedingungen_M%C3%B6rwald%20Holding%20GmbH_clean.pdf",
+      "https://at0000a3qmn8.register.nyala.de/Emissionsbedingungen%20Skygate%20Aviation%20Academy%20GmbH.pdf",
+      "https://at0000a3qmx7.register.nyala.de/Genussscheinbedingungen-Vello-GmbH.pdf",
+      "https://at0000a3r4k3.register.nyala.de/Emissionsbedingungen%20Super%20Power%20Generation%20GmbH.pdf",
+      "https://at0000a3rgg2.register.nyala.de/20260105_Emissionsbedingungen_KAPO-Fenster-und-T%C3%BCren-GmbH_clean_signed.pdf",
+      "https://at0000a3se97.register.nyala.de/Emissionsbedingungen%20MyGym_20260218_final.pdf",
+      "https://at0000a3sea8.register.nyala.de/Emissionsbedingungen%20MyGym_20260218_final.pdf",
+      "https://at0000a3t1u6.register.nyala.de/Emissionsbedingungen_%C3%9CbergosseneAlm_20260415.pdf",
+      "https://at0000a3t386.register.nyala.de/Emissionsbedingungen__we-are.travel%20INVEST%20GmbH.pdf",
+      "https://at0000a3wd68.register.nyala.de/BT_TC_HEROSAN_DE_EN.pdf",
+      "https://de000a41ujn1.register.nyala.de/20251113_Genusscheinbedingungen_Nook_final.pdf",
+      "https://de000a42ht00.register.nyala.de/20260826_HALBZEIT%20Investment%20I%20UG_Genussschein-Bedingungen_JawBuddy%202026_Verl%C3%A4ngerung_Track%20Changes.pdf",
+      "https://de000a460fm0.register.nyala.de/Emissionsbedingungen-EWIA-Impact-I-UG_20260206_final.pdf",
+      "https://de000a46zyn8.register.nyala.de/DN_Group_Anleihebedingungen_Tranche%20B_final%20(1).pdf",
+      "https://de000a46zyq1.register.nyala.de/01_BT_DE_FS.pdf",
+      "https://de000a46zzw6.register.nyala.de/01_BT_FXBS_DE_EN.pdf",
+      "https://de000a4au1a3.register.nyala.de/20260531_GEG%20Via%20Pellizzo%2014%202036_Terms_of_Issue_vF_Clean.pdf",
+      "https://de000a4au208.register.nyala.de/Bond_Terms_VVI_DE_EN_Anthropic.pdf",
+      "https://de000a4au9l3.register.nyala.de/Anthropic_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+      "https://de000a4auxl7.register.nyala.de/Anleihebedingungen_GOLD_TOKEN_PROFESSIONAL_ONE.pdf",
+      "https://de000a4avxg5.register.nyala.de/Anduril_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+      "https://de000a4avxh3.register.nyala.de/Higgsfield_AI_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+      "https://de000a4avxj9.register.nyala.de/Kraken_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+      "https://de000a4avxk7.register.nyala.de/MistralAI_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+      "https://de000a4avxl5.register.nyala.de/Neuralink_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+      "https://de000a4avxm3.register.nyala.de/OpenAI_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+      "https://de000a4avxn1.register.nyala.de/PerplexityAI_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+      "https://de000a4avxp6.register.nyala.de/Polymarket_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+      "https://de000a4avxq4.register.nyala.de/ShieldAI_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+      "https://de000a4avxr2.register.nyala.de/Stripe_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+      "https://de000a4avxx0.register.nyala.de/Bond_Terms_incl_VVI_DE_EN_with_ISIN.pdf",
+      "https://de000a4e0qj3.register.nyala.de/Bond_Terms_Trust_Conditions_DE_EN_AEP.pdf",
+      "https://de000a4exnm2.register.nyala.de/BondProspectus_SIMPLEROS%2003.07.2026.pdf",
+      "https://de000a4zza75.register.nyala.de/Emissionsbedinungen%20Beets-Roots_20260325_final.pdf",
+      "https://de000a5gs073.register.nyala.de/01_BT_FXBS2_DE_EN.pdf",
+      "https://de000a5gs1b8.register.nyala.de/devolo%20Anleihe%20-%20Emissionsbedingungen%20-%20Sept%202026.pdf",
+      "https://fi4000602966.register.nyala.de/Bond_Terms_Flagmore_Group_Oy.pdf",
+      "https://fi4000606249.register.nyala.de/Bond%20Terms_Nordic%20Urban%20Oy.pdf",
+      "https://fi4000609599.register.nyala.de/Bond%20Terms_HirviForest%20Oy.pdf",
+      "https://fi4000614813.register.nyala.de/ACS_Bond%20Terms.pdf",
+      "https://www.nyala.de/en/products/electronic-securities"
+    ],
+    "source_id": "nyala_smart_registry"
+  },
+  {
+    "family": "Axiology",
+    "issue_count": 6,
+    "jurisdiction": null,
+    "locators": [
+      "https://tss.axiology.xyz/bonds"
+    ],
+    "source_id": "axiology_bonds"
+  },
+  {
+    "family": "SIX Central Register",
+    "issue_count": 23,
+    "jurisdiction": "CH",
+    "locators": [
+      "https://www.lugano.ch/en/news/20260616-bond-digitale-investimenti.html",
+      "https://www.prnewswire.com/news-releases/swiss-cantons-basel-city-and-zurich-pioneer-the-settlement-of-digital-bonds-transactions-in-snbs-swiss-franc-wcbdc-on-six-digital-exchange-302003630.html",
+      "https://www.six-group.com/en/products-services/securities-services/digital-assets/digital-securities/main-register.html"
+    ],
+    "source_id": "six_central_register"
+  }
+]
