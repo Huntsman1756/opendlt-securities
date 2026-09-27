@@ -1,0 +1,113 @@
+{
+  "anchor": "A86796182|65f275ef8266",
+  "assertion_ids": [
+    "as_02ead214cb10",
+    "as_3ac7312b226f",
+    "as_40bce4342636",
+    "as_98f0df87b3ea",
+    "as_9d3ec1c4df88",
+    "as_c3cb08a9b55d",
+    "as_c8656f61ebfd",
+    "as_f202c447606f"
+  ],
+  "conflicts": [],
+  "deep_traces": [],
+  "description": "Inscribir en el Registro Oficial de la Comisión Nacional del Mercado de Valores previsto en el artículo 2.b) del Real Decreto 815/2023, de 8 de noviembre, por el que se desarrolla la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión, en relación con los registros oficiales de la Comisión Nacional del Mercado de Valores, la cooperación con otras autoridades y la supervisión de empresas de servicios de inversión, a URSUS-3 CAPITAL, A.V., S.A. como entidad responsable de la inscripción y del registro de la emisión de obligaciones representada mediante sistemas basados en tecnología de registros distribuidos, por importe de 5.817.600 euros realizada por HAUSERA PROPERTY MANAGER SPV 4, S.A., e inscrita en el Registro Mercantil el 29 de abril de 2026",
+  "display_name": "HAUSERA PROPERTY MANAGER SPV 4, S.A. · obligaciones · 5,817,600 EUR",
+  "id": "issue_34848f7a723d",
+  "identifiers": {
+    "asset_id": null,
+    "contract": null,
+    "dti": null,
+    "isin": null,
+    "issue_code": null,
+    "local_security_id": null
+  },
+  "instrument_type": {
+    "assertion_ids": [
+      "as_9d3ec1c4df88"
+    ],
+    "level": "TYPE_SOURCE_LITERAL",
+    "normalized": null,
+    "origin": "G0-D",
+    "value": "obligaciones"
+  },
+  "instrument_type_display": "Bond",
+  "isin_country": null,
+  "issue_facts": {
+    "amount": 5817600.0,
+    "amount_state": "SINGLE_SOURCE",
+    "currency": "EUR",
+    "interest_rate": null,
+    "issue_date": "2026-06-19",
+    "listed_on_axiology": null,
+    "maturity_date": null,
+    "nominal": null
+  },
+  "issuer": {
+    "assertion_ids": [
+      "as_40bce4342636"
+    ],
+    "identifier": null,
+    "identifier_kind": "NORMALIZED_LEGAL_NAME",
+    "level": "CANONICAL_ENTITY",
+    "origin": "G0-D",
+    "value": "HAUSERA PROPERTY MANAGER SPV 4, S.A."
+  },
+  "jurisdiction": "ES",
+  "ledger_representations": [],
+  "legal_jurisdiction": "ES",
+  "legal_model": "ERIR (CNMV register, LMVSI/RD 815-2023)",
+  "market": {
+    "admission": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "cash_leg": {
+      "asset_type": "UNKNOWN",
+      "representation": "UNKNOWN"
+    },
+    "coordination": {
+      "model": "UNKNOWN"
+    },
+    "primary_disposition": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "securities_settlement": {
+      "actual_transaction_observed": "NOT_OBSERVED",
+      "capability": "UNKNOWN",
+      "ledger": "legal register — technical substrate not evidenced",
+      "mechanism": "UNKNOWN",
+      "system": "ERIR register (CNMV art. 2.b RD 815/2023)"
+    },
+    "trade": "NO_TRADE_FOUND"
+  },
+  "slug": "A86796182_65f275ef8266",
+  "source_family": "CNMV ERIR",
+  "source_id": "cnmv_erir_entity",
+  "sources": [
+    {
+      "artifact_id": "art_9967ee4f889a92e6834e960734b2082e8ed69a428652ed4a743a3b2594d5fd78",
+      "capture_id": "capture_399f4feb3495",
+      "parser_id": "cnmv_erir_entity",
+      "record_locator": "elementoPrimerNivel[ctl00]",
+      "source_id": "cnmv_erir_entity",
+      "source_locator": "https://www.cnmv.es/portal/consultas/esi/erir_esi?nif=A86796182&page=0"
+    }
+  ],
+  "token_class_count": 0,
+  "token_classes": [],
+  "unknowns": [
+    {
+      "field": "ledger_representation",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    },
+    {
+      "field": "cash_leg",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "coordination",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "public_trade",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "anchor": "CH1306117073",
+  "assertion_ids": [
+    "as_0ec12d7b936e",
+    "as_6ddd0d3bffb3",
+    "as_7627565b4821",
+    "as_a55fb9db8039",
+    "as_cafb38594d0b",
+    "as_ddc3031b1119",
+    "as_dedf0aadb5af"
+  ],
+  "conflicts": [],
+  "deep_traces": [
+    {
+      "complete": true,
+      "hops": [
+        "admission",
+        "cash_leg",
+        "coordination",
+        "ledger_representation",
+        "legal_representation",
+        "securities_settlement",
+        "security_issue"
+      ],
+      "hops_detail": {
+        "admission": {
+          "claim_ids": [
+            "mclaim_ecdb990db66e"
+          ],
+          "state": "OBSERVED"
+        },
+        "cash_leg": {
+          "bound": "instrument",
+          "claim_ids": [
+            "mclaim_0e9431f93860",
+            "mclaim_1d0dc1ef1868",
+            "mclaim_1d0dc1ef1868",
+            "mclaim_b5f37bf6cb2c",
+            "mclaim_b771be286ffa",
+            "mclaim_b771be286ffa",
+            "mclaim_e94b31671126",
+            "mclaim_e94b31671126",
+            "mclaim_f3aed54f2aa5"
+          ],
+          "state": {
+            "asset_type": "CENTRAL_BANK_MONEY",
+            "representation": "WCBDC"
+          }
+        },
+        "coordination": {
+          "bound": "instrument",
+          "claim_ids": [
+            "mclaim_1d0dc1ef1868",
+            "mclaim_1d0dc1ef1868",
+            "mclaim_7d1da583e3aa",
+            "mclaim_b771be286ffa",
+            "mclaim_b771be286ffa",
+            "mclaim_e64cb23c1afd",
+            "mclaim_e94b31671126",
+            "mclaim_e94b31671126"
+          ],
+          "state": {
+            "model": "NATIVE_DVP"
+          }
+        },
+        "ledger_representation": {
+          "evidence": "G0E_TECHNICAL",
+          "g0e_dispositions": {
+            "ledgerrep_6b2527962745": "OPERATOR_ATTESTED_ONLY"
+          },
+          "ledger_representation_ids": [
+            "ledgerrep_6b2527962745"
+          ]
+        },
+        "legal_representation": {
+          "evidence": "G0D_LEGAL_REGISTER",
+          "source_id": "six_central_register",
+          "source_record_ids": [
+            "sr_38cc2721db98"
+          ]
+        },
+        "securities_settlement": {
+          "bound": "instrument",
+          "claim_ids": [
+            "mclaim_0e9431f93860",
+            "mclaim_7d1da583e3aa",
+            "mclaim_b5f37bf6cb2c",
+            "mclaim_b771be286ffa",
+            "mclaim_b771be286ffa",
+            "mclaim_f3aed54f2aa5"
+          ],
+          "level": "TRANSACTION_OBSERVED"
+        },
+        "security_issue": {
+          "assertion_ids": [
+            "as_0ec12d7b936e",
+            "as_6ddd0d3bffb3",
+            "as_7627565b4821",
+            "as_a55fb9db8039",
+            "as_cafb38594d0b",
+            "as_ddc3031b1119",
+            "as_dedf0aadb5af"
+          ],
+          "evidence": "G0D_ASSERTION",
+          "issue_id": "issue_4e8d50ac6c2b"
+        }
+      },
+      "kind": "TRANSACTION",
+      "notes": "",
+      "trace_id": "trace_69c7cb873436",
+      "trace_type": "TRANSACTION_TRACE"
+    }
+  ],
+  "description": "1.45 Kt ZH 23-34",
+  "display_name": "1.45 Kt ZH 23-34",
+  "id": "issue_4e8d50ac6c2b",
+  "identifiers": {
+    "asset_id": "3A3",
+    "contract": null,
+    "dti": null,
+    "isin": "CH1306117073",
+    "issue_code": null,
+    "local_security_id": "130611707"
+  },
+  "instrument_type": {
+    "assertion_ids": [],
+    "level": "TYPE_REFERENCE_CFI",
+    "normalized": "BOND",
+    "origin": "OI_LOOKUP",
+    "value": "DNFTFB"
+  },
+  "instrument_type_display": "Bond",
+  "isin_country": "CH",
+  "issue_facts": {
+    "amount": 100000000.0,
+    "amount_state": "SINGLE_SOURCE",
+    "currency": "CHF",
+    "interest_rate": null,
+    "issue_date": null,
+    "listed_on_axiology": null,
+    "maturity_date": null,
+    "nominal": 5000.0
+  },
+  "issuer": {
+    "assertion_ids": [],
+    "identifier": "5067000JHM0Z8259CW65",
+    "identifier_kind": "LEI",
+    "level": "CANONICAL_ENTITY",
+    "origin": "G0-D",
+    "value": "5067000JHM0Z8259CW65"
+  },
+  "jurisdiction": "CH",
+  "ledger_representations": [
+    {
+      "assertion_ids": [
+        "as_ddc3031b1119"
+      ],
+      "asset_id": "3A3",
+      "blockchain_url": null,
+      "contract": null,
+      "dti": null,
+      "id": "ledgerrep_6b2527962745",
+      "network": "SDX DLT",
+      "technical": {
+        "dimensions": {
+          "LEDGER_IDENTITY": "SOURCE_ASSERTED",
+          "PUBLIC_OBSERVABILITY": "OPERATOR_ATTESTED_ONLY",
+          "TECHNICAL_REGISTRY": "REGISTRY_RECORD_OBSERVED"
+        },
+        "disposition": "OPERATOR_ATTESTED_ONLY"
+      },
+      "token_class_id": null
+    }
+  ],
+  "legal_jurisdiction": "CH",
+  "legal_model": "SDX CSD digital securities register",
+  "market": {
+    "admission": "OBSERVED",
+    "cash_leg": {
+      "asset_type": "CENTRAL_BANK_MONEY",
+      "representation": "WCBDC"
+    },
+    "coordination": {
+      "model": "NATIVE_DVP"
+    },
+    "primary_disposition": "END_TO_END_TRACED",
+    "securities_settlement": {
+      "actual_transaction_observed": "TRANSACTION_OBSERVED",
+      "capability": "DOCUMENTED",
+      "ledger": "SDX permissioned DLT (Corda)",
+      "mechanism": "SDX",
+      "system": "SDX"
+    },
+    "trade": "NO_TRADE_FOUND"
+  },
+  "slug": "CH1306117073",
+  "source_family": "SIX Central Register",
+  "source_id": "six_central_register",
+  "sources": [
+    {
+      "artifact_id": "art_df0f835021a017c0131e48dc316395cdb0a468c991b1ff356a03f4b671d460e1",
+      "capture_id": "capture_8381f8ca8688",
+      "parser_id": "six_central_register",
+      "record_locator": "table[0].row[14]",
+      "source_id": "six_central_register",
+      "source_locator": "https://www.six-group.com/en/products-services/securities-services/digital-assets/digital-securities/main-register.html"
+    }
+  ],
+  "token_class_count": 0,
+  "token_classes": [],
+  "unknowns": [
+    {
+      "field": "public_trade",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    }
+  ]
+}

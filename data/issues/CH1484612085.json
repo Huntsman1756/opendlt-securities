@@ -1,0 +1,125 @@
+{
+  "anchor": "CH1484612085",
+  "assertion_ids": [
+    "as_32901e232fcf",
+    "as_33f484a43e11",
+    "as_5317df6d0807",
+    "as_9eafe02a70dc",
+    "as_ba093c4cdbc5",
+    "as_c65e6454fb56",
+    "as_c87b9a368306"
+  ],
+  "conflicts": [],
+  "deep_traces": [],
+  "description": "Kred.f.Wied 26/35 MTN SF",
+  "display_name": "Kred.f.Wied 26/35 MTN SF",
+  "id": "issue_b4706adf6b42",
+  "identifiers": {
+    "asset_id": "15A4",
+    "contract": null,
+    "dti": null,
+    "isin": "CH1484612085",
+    "issue_code": null,
+    "local_security_id": "148461208"
+  },
+  "instrument_type": {
+    "assertion_ids": [],
+    "level": "TYPE_REFERENCE_CFI",
+    "normalized": "BOND",
+    "origin": "OI_LOOKUP",
+    "value": "DTFNFB"
+  },
+  "instrument_type_display": "Bond",
+  "isin_country": "CH",
+  "issue_facts": {
+    "amount": 100000000.0,
+    "amount_state": "SINGLE_SOURCE",
+    "currency": "CHF",
+    "interest_rate": null,
+    "issue_date": null,
+    "listed_on_axiology": null,
+    "maturity_date": null,
+    "nominal": 5000.0
+  },
+  "issuer": {
+    "assertion_ids": [],
+    "identifier": "549300GDPG70E3MBBU98",
+    "identifier_kind": "LEI",
+    "level": "CANONICAL_ENTITY",
+    "origin": "G0-D",
+    "value": "549300GDPG70E3MBBU98"
+  },
+  "jurisdiction": "CH",
+  "ledger_representations": [
+    {
+      "assertion_ids": [
+        "as_32901e232fcf"
+      ],
+      "asset_id": "15A4",
+      "blockchain_url": null,
+      "contract": null,
+      "dti": null,
+      "id": "ledgerrep_82718e9816ec",
+      "network": "SDX DLT",
+      "technical": {
+        "dimensions": {
+          "LEDGER_IDENTITY": "SOURCE_ASSERTED",
+          "PUBLIC_OBSERVABILITY": "OPERATOR_ATTESTED_ONLY",
+          "TECHNICAL_REGISTRY": "REGISTRY_RECORD_OBSERVED"
+        },
+        "disposition": "OPERATOR_ATTESTED_ONLY"
+      },
+      "token_class_id": null
+    }
+  ],
+  "legal_jurisdiction": "CH",
+  "legal_model": "SDX CSD digital securities register",
+  "market": {
+    "admission": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "cash_leg": {
+      "asset_type": "UNKNOWN",
+      "representation": "UNKNOWN"
+    },
+    "coordination": {
+      "model": "UNKNOWN"
+    },
+    "primary_disposition": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "securities_settlement": {
+      "actual_transaction_observed": "NOT_OBSERVED",
+      "capability": "REGISTER_DOCUMENTED",
+      "ledger": "SDX permissioned DLT (Corda)",
+      "mechanism": "register_inscription",
+      "system": "SIX Central Securities Register / SDX CSD"
+    },
+    "trade": "NO_TRADE_FOUND"
+  },
+  "slug": "CH1484612085",
+  "source_family": "SIX Central Register",
+  "source_id": "six_central_register",
+  "sources": [
+    {
+      "artifact_id": "art_df0f835021a017c0131e48dc316395cdb0a468c991b1ff356a03f4b671d460e1",
+      "capture_id": "capture_8381f8ca8688",
+      "parser_id": "six_central_register",
+      "record_locator": "table[0].row[21]",
+      "source_id": "six_central_register",
+      "source_locator": "https://www.six-group.com/en/products-services/securities-services/digital-assets/digital-securities/main-register.html"
+    }
+  ],
+  "token_class_count": 0,
+  "token_classes": [],
+  "unknowns": [
+    {
+      "field": "cash_leg",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "coordination",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "public_trade",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    }
+  ]
+}

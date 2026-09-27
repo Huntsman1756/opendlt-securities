@@ -1,0 +1,142 @@
+{
+  "anchor": "DE000A4AVXH3",
+  "assertion_ids": [
+    "as_064942b09f17",
+    "as_1b11f8d6fbaa",
+    "as_1b8e84c2f61a",
+    "as_25ab07ced768",
+    "as_40ed72b34ab5",
+    "as_43801689ed20",
+    "as_9e2c71bb3c81",
+    "as_a90512100774",
+    "as_cdfb6b22d2cc",
+    "as_fdb26d4bc972"
+  ],
+  "conflicts": [],
+  "deep_traces": [],
+  "description": "Higgsfield AI Bond",
+  "display_name": "Higgsfield AI Bond",
+  "id": "issue_81f0614a9783",
+  "identifiers": {
+    "asset_id": null,
+    "contract": null,
+    "dti": null,
+    "isin": "DE000A4AVXH3",
+    "issue_code": null,
+    "local_security_id": null
+  },
+  "instrument_type": {
+    "assertion_ids": [
+      "as_fdb26d4bc972"
+    ],
+    "level": "TYPE_SOURCE_LITERAL",
+    "normalized": null,
+    "origin": "G0-D",
+    "value": "Bond Token"
+  },
+  "instrument_type_display": "Bond",
+  "isin_country": "DE",
+  "issue_facts": {
+    "amount": "50.000.000,00",
+    "amount_state": "SINGLE_SOURCE",
+    "currency": "EUR",
+    "interest_rate": null,
+    "issue_date": "May 15, 2026",
+    "listed_on_axiology": null,
+    "maturity_date": "May 16, 2029",
+    "nominal": "EUR 1000"
+  },
+  "issuer": {
+    "assertion_ids": [],
+    "capture_id": "tcap_3da7bdda88a6",
+    "identifier": null,
+    "identifier_kind": null,
+    "level": "LEGAL_ISSUER_EXPLICIT",
+    "origin": "G0-R",
+    "url": "https://de000a4avxh3.register.nyala.de/Higgsfield_AI_Bond_Terms_and_Conditions_Professional_Clients.pdf",
+    "value": "Transfer, Use of Proceeds, Further Bonds 1.1 Cometum Direct Invest GmbH & Co. KG"
+  },
+  "jurisdiction": "DE",
+  "ledger_representations": [
+    {
+      "assertion_ids": [
+        "as_1b8e84c2f61a"
+      ],
+      "asset_id": null,
+      "blockchain_url": "https://stellar.expert/explorer/public/asset/HIGAI-GAJEQR6WXLV6MYQ6LICZUUL2XGW37A6E4YJDBR6P7FAXWYLNEST4ODPN-2",
+      "contract": null,
+      "dti": null,
+      "id": "ledgerrep_a3ae6ea1df39",
+      "network": "Stellar",
+      "technical": {
+        "dimensions": {
+          "LEDGER_IDENTITY": "CORROBORATED",
+          "LEDGER_OBJECT": "REGISTRY_RECORD_OBSERVED",
+          "PROXY_TOPOLOGY": "NO_PROXY_EVIDENCE",
+          "PUBLIC_OBSERVABILITY": "PUBLIC_QUERYABLE",
+          "SOURCE_CODE": "NOT_APPLICABLE",
+          "TOKEN_STANDARD": "NOT_APPLICABLE"
+        },
+        "disposition": "TECHNICALLY_CORROBORATED"
+      },
+      "token_class_id": null
+    }
+  ],
+  "legal_jurisdiction": "DE",
+  "legal_model": "eWpG crypto securities register",
+  "market": {
+    "admission": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "cash_leg": {
+      "asset_type": "UNKNOWN",
+      "representation": "UNKNOWN"
+    },
+    "coordination": {
+      "model": "UNKNOWN"
+    },
+    "primary_disposition": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "securities_settlement": {
+      "actual_transaction_observed": "NOT_OBSERVED",
+      "capability": "UNKNOWN",
+      "ledger": "polygon_pos / stellar_public (G0-E)",
+      "mechanism": "UNKNOWN",
+      "system": "Smart Registry (KWP securities register)"
+    },
+    "trade": "NO_TRADE_FOUND"
+  },
+  "slug": "DE000A4AVXH3",
+  "source_family": "NYALA Smart Registry",
+  "source_id": "nyala_smart_registry",
+  "sources": [
+    {
+      "artifact_id": "art_b60269fb2a8986e2b17ffbe241ee06a40622e7f38c89fd75fff881168a3ad542",
+      "capture_id": "capture_81ff45765def",
+      "parser_id": "nyala_smart_registry",
+      "record_locator": "collection_item[38]",
+      "source_id": "nyala_smart_registry",
+      "source_locator": "https://www.nyala.de/en/products/electronic-securities"
+    },
+    {
+      "artifact_id": null,
+      "capture_id": "tcap_3da7bdda88a6",
+      "note": "Post-freeze G0-R source exhaustion",
+      "source_id": "g0r_issuer_enrichment",
+      "source_locator": "https://de000a4avxh3.register.nyala.de/Higgsfield_AI_Bond_Terms_and_Conditions_Professional_Clients.pdf"
+    }
+  ],
+  "token_class_count": 0,
+  "token_classes": [],
+  "unknowns": [
+    {
+      "field": "cash_leg",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "coordination",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "public_trade",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    }
+  ]
+}

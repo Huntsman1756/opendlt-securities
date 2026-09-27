@@ -1,0 +1,133 @@
+{
+  "anchor": "LT0000137994",
+  "assertion_ids": [
+    "as_045e1fab6ad6",
+    "as_0e690cf05ae7",
+    "as_76462f19af53",
+    "as_7d5759205472",
+    "as_835efccf425d",
+    "as_aac496f92bc7",
+    "as_e4af282113ad",
+    "as_ffd8fbcbe2a5"
+  ],
+  "conflicts": [],
+  "deep_traces": [],
+  "description": "EUR 9.50 UTIISIB UAB RIVERSIDE REAL ESTATE FUND OBLIGACIJOS 26-2029",
+  "display_name": "EUR 9.50 UTIISIB UAB RIVERSIDE REAL ESTATE FUND OBLIGACIJOS 26-2029",
+  "id": "issue_f44731ebb807",
+  "identifiers": {
+    "asset_id": null,
+    "contract": null,
+    "dti": "-",
+    "isin": "LT0000137994",
+    "issue_code": null,
+    "local_security_id": null
+  },
+  "instrument_type": {
+    "assertion_ids": [],
+    "level": "TYPE_SOURCE_LITERAL",
+    "normalized": "BOND",
+    "origin": "G0-R",
+    "value": "OBLIGACIJOS"
+  },
+  "instrument_type_display": "Bond",
+  "isin_country": "LT",
+  "issue_facts": {
+    "amount": 2855000.0,
+    "amount_state": "SINGLE_SOURCE",
+    "currency": "EUR",
+    "interest_rate": null,
+    "issue_date": "2026-06-03",
+    "listed_on_axiology": false,
+    "maturity_date": null,
+    "nominal": null
+  },
+  "issuer": {
+    "assertion_ids": [
+      "as_e4af282113ad"
+    ],
+    "identifier": null,
+    "identifier_kind": "NORMALIZED_LEGAL_NAME",
+    "level": "CANONICAL_ENTITY",
+    "origin": "G0-D",
+    "value": "UTIISIB UAB Riverside real estate fund"
+  },
+  "jurisdiction": "DE",
+  "ledger_representations": [
+    {
+      "assertion_ids": [
+        "as_ffd8fbcbe2a5"
+      ],
+      "asset_id": null,
+      "blockchain_url": null,
+      "contract": null,
+      "dti": "-",
+      "id": "ledgerrep_e2ea17c712b4",
+      "network": "UNKNOWN",
+      "technical": {
+        "dimensions": {
+          "TECHNICAL_REFERENCE": "UNPARSABLE"
+        },
+        "disposition": "NOT_APPLICABLE"
+      },
+      "token_class_id": null
+    }
+  ],
+  "legal_jurisdiction": "DE",
+  "legal_model": "eWpG crypto securities instrument (Axiology TSS)",
+  "market": {
+    "admission": "SOURCE_SAYS_NOT_LISTED",
+    "cash_leg": {
+      "asset_type": "UNKNOWN",
+      "representation": "UNKNOWN"
+    },
+    "coordination": {
+      "model": "UNKNOWN"
+    },
+    "primary_disposition": "SOURCE_SAYS_NOT_LISTED",
+    "securities_settlement": {
+      "actual_transaction_observed": "NOT_OBSERVED",
+      "capability": "UNKNOWN",
+      "ledger": "XRPL (per source)",
+      "mechanism": "UNKNOWN",
+      "system": "Axiology DLT TSS register"
+    },
+    "trade": "NO_TRADE_FOUND"
+  },
+  "slug": "LT0000137994",
+  "source_family": "Axiology",
+  "source_id": "axiology_bonds",
+  "sources": [
+    {
+      "artifact_id": "art_51fb1123dd6dd7cbbc597538709a8b3d8ed658ba763008c0fc6b8403cf1567de",
+      "capture_id": "capture_7c9a6d290369",
+      "parser_id": "axiology_bonds",
+      "record_locator": "bond_card[0]",
+      "source_id": "axiology_bonds",
+      "source_locator": "https://tss.axiology.xyz/bonds"
+    },
+    {
+      "artifact_id": null,
+      "capture_id": null,
+      "note": "Post-freeze G0-R source exhaustion",
+      "source_id": "g0r_type_enrichment",
+      "source_locator": null
+    }
+  ],
+  "token_class_count": 0,
+  "token_classes": [],
+  "unknowns": [
+    {
+      "field": "cash_leg",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "coordination",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "public_trade",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    }
+  ]
+}

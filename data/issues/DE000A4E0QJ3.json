@@ -1,0 +1,143 @@
+{
+  "anchor": "DE000A4E0QJ3",
+  "assertion_ids": [
+    "as_06a872e4f49c",
+    "as_0dcd36c5dbbd",
+    "as_356bd766f222",
+    "as_a83347050ebc",
+    "as_adae064148a5",
+    "as_b1d70f7588f7",
+    "as_c2d318a7c54c",
+    "as_c6a1b75caac4",
+    "as_cac333562adc",
+    "as_e4fd373dc861",
+    "as_eb80532993f6"
+  ],
+  "conflicts": [],
+  "deep_traces": [],
+  "description": "AEP2 FNZ GmbH",
+  "display_name": "AEP2 FNZ GmbH",
+  "id": "issue_6c15ee4e4643",
+  "identifiers": {
+    "asset_id": null,
+    "contract": "0x913984B70F9aD692b0960623D71F759c8C7E77A3",
+    "dti": null,
+    "isin": "DE000A4E0QJ3",
+    "issue_code": null,
+    "local_security_id": null
+  },
+  "instrument_type": {
+    "assertion_ids": [
+      "as_c2d318a7c54c"
+    ],
+    "level": "TYPE_SOURCE_LITERAL",
+    "normalized": null,
+    "origin": "G0-D",
+    "value": "Bond Token"
+  },
+  "instrument_type_display": "Bond",
+  "isin_country": "DE",
+  "issue_facts": {
+    "amount": "2.285.000,00 EUR",
+    "amount_state": "SINGLE_SOURCE",
+    "currency": "EUR",
+    "interest_rate": 8.0,
+    "issue_date": "October 12, 2026",
+    "listed_on_axiology": null,
+    "maturity_date": "October 11, 2036",
+    "nominal": "EUR 250"
+  },
+  "issuer": {
+    "assertion_ids": [],
+    "capture_id": "tcap_742b92e55cb4",
+    "identifier": null,
+    "identifier_kind": null,
+    "level": "LEGAL_ISSUER_EXPLICIT",
+    "origin": "G0-R",
+    "url": "https://de000a4e0qj3.register.nyala.de/Bond_Terms_Trust_Conditions_DE_EN_AEP.pdf",
+    "value": "AEP2 FNZ GmbH"
+  },
+  "jurisdiction": "DE",
+  "ledger_representations": [
+    {
+      "assertion_ids": [
+        "as_e4fd373dc861"
+      ],
+      "asset_id": null,
+      "blockchain_url": "https://polygonscan.com/address/0x913984B70F9aD692b0960623D71F759c8C7E77A3",
+      "contract": "0x913984B70F9aD692b0960623D71F759c8C7E77A3",
+      "dti": null,
+      "id": "ledgerrep_b1f125b8e00d",
+      "network": "Polygon (EVM)",
+      "technical": {
+        "dimensions": {
+          "LEDGER_IDENTITY": "CORROBORATED",
+          "LEDGER_OBJECT": "CONTRACT_CODE_OBSERVED",
+          "PROXY_TOPOLOGY": "NO_PROXY_EVIDENCE",
+          "PUBLIC_OBSERVABILITY": "PUBLIC_QUERYABLE",
+          "SOURCE_CODE": "SOURCIFY_NO_MATCH",
+          "TOKEN_STANDARD": "ERC20_LIKE"
+        },
+        "disposition": "TECHNICALLY_CORROBORATED"
+      },
+      "token_class_id": null
+    }
+  ],
+  "legal_jurisdiction": "DE",
+  "legal_model": "eWpG crypto securities register",
+  "market": {
+    "admission": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "cash_leg": {
+      "asset_type": "UNKNOWN",
+      "representation": "UNKNOWN"
+    },
+    "coordination": {
+      "model": "UNKNOWN"
+    },
+    "primary_disposition": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "securities_settlement": {
+      "actual_transaction_observed": "NOT_OBSERVED",
+      "capability": "UNKNOWN",
+      "ledger": "polygon_pos / stellar_public (G0-E)",
+      "mechanism": "UNKNOWN",
+      "system": "Smart Registry (KWP securities register)"
+    },
+    "trade": "NO_TRADE_FOUND"
+  },
+  "slug": "DE000A4E0QJ3",
+  "source_family": "NYALA Smart Registry",
+  "source_id": "nyala_smart_registry",
+  "sources": [
+    {
+      "artifact_id": "art_b60269fb2a8986e2b17ffbe241ee06a40622e7f38c89fd75fff881168a3ad542",
+      "capture_id": "capture_81ff45765def",
+      "parser_id": "nyala_smart_registry",
+      "record_locator": "collection_item[2]",
+      "source_id": "nyala_smart_registry",
+      "source_locator": "https://www.nyala.de/en/products/electronic-securities"
+    },
+    {
+      "artifact_id": null,
+      "capture_id": "tcap_742b92e55cb4",
+      "note": "Post-freeze G0-R source exhaustion",
+      "source_id": "g0r_issuer_enrichment",
+      "source_locator": "https://de000a4e0qj3.register.nyala.de/Bond_Terms_Trust_Conditions_DE_EN_AEP.pdf"
+    }
+  ],
+  "token_class_count": 0,
+  "token_classes": [],
+  "unknowns": [
+    {
+      "field": "cash_leg",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "coordination",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "public_trade",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    }
+  ]
+}

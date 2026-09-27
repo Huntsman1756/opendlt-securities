@@ -1,0 +1,12 @@
+{
+  "product": "opendlt-securities",
+  "release_id": "opendlt-d7509a3-3766da6cb52b",
+  "git_commit": "d7509a308ccd1d73c92287957e3fcc26f6d80470",
+  "g0_scientific_verdict": "G0_FAIL",
+  "g1_product_snapshot_sha256": "c8250bf72c4a94c098df297cd68040bf9b120d8666b7e6a3aa42861342b96f17",
+  "g1_product_fingerprint": "3766da6cb52b44dcfeeb32dccd10fe089c45bf609641708a5f6cfdf931be498d",
+  "content_manifest_sha256": "0c9688f2e4e72ee5cf3377bf00a6390f2867ab31c2d49032cab925f468d26ff6",
+  "route_count": 105,
+  "snapshot_as_of": "2026-09-26",
+  "bundle_sha256": "8d2d9fa3228d5dc223243424fd00b2b17072541d5e6bae130c339410a4f6e744"
+}

@@ -1,0 +1,142 @@
+{
+  "anchor": "DE000A4AU208",
+  "assertion_ids": [
+    "as_2212f93de80e",
+    "as_343be14ccea0",
+    "as_58340805c4a1",
+    "as_72929b12c988",
+    "as_819c6923d818",
+    "as_834d6a91155d",
+    "as_a0a9648cb1be",
+    "as_cbe649b1bd81",
+    "as_cd1c4e177df7",
+    "as_d2f3dba343ec"
+  ],
+  "conflicts": [],
+  "deep_traces": [],
+  "description": "Anthropic Bond",
+  "display_name": "Anthropic Bond",
+  "id": "issue_174547cfe7dd",
+  "identifiers": {
+    "asset_id": null,
+    "contract": "0xB76DB9b6978125ca68A9d89172AAf6e307aE747c",
+    "dti": null,
+    "isin": "DE000A4AU208",
+    "issue_code": null,
+    "local_security_id": null
+  },
+  "instrument_type": {
+    "assertion_ids": [
+      "as_a0a9648cb1be"
+    ],
+    "level": "TYPE_SOURCE_LITERAL",
+    "normalized": null,
+    "origin": "G0-D",
+    "value": "Bond Token"
+  },
+  "instrument_type_display": "Bond",
+  "isin_country": "DE",
+  "issue_facts": {
+    "amount": "2.112.750,00",
+    "amount_state": "SINGLE_SOURCE",
+    "currency": "EUR",
+    "interest_rate": null,
+    "issue_date": "July 1, 2026",
+    "listed_on_axiology": null,
+    "maturity_date": "July 2, 2029",
+    "nominal": "EUR 250"
+  },
+  "issuer": {
+    "assertion_ids": [],
+    "capture_id": "tcap_543e1c61f92c",
+    "identifier": null,
+    "identifier_kind": null,
+    "level": "LEGAL_ISSUER_EXPLICIT",
+    "origin": "G0-R",
+    "url": "https://de000a4au208.register.nyala.de/Bond_Terms_VVI_DE_EN_Anthropic.pdf",
+    "value": "Cometum Direct Invest I GmbH & Co. KG"
+  },
+  "jurisdiction": "DE",
+  "ledger_representations": [
+    {
+      "assertion_ids": [
+        "as_343be14ccea0"
+      ],
+      "asset_id": null,
+      "blockchain_url": "https://polygonscan.com/address/0xB76DB9b6978125ca68A9d89172AAf6e307aE747c",
+      "contract": "0xB76DB9b6978125ca68A9d89172AAf6e307aE747c",
+      "dti": null,
+      "id": "ledgerrep_499148f733c1",
+      "network": "Polygon (EVM)",
+      "technical": {
+        "dimensions": {
+          "LEDGER_IDENTITY": "CORROBORATED",
+          "LEDGER_OBJECT": "CONTRACT_CODE_OBSERVED",
+          "PROXY_TOPOLOGY": "NO_PROXY_EVIDENCE",
+          "PUBLIC_OBSERVABILITY": "PUBLIC_QUERYABLE",
+          "SOURCE_CODE": "SOURCIFY_NO_MATCH",
+          "TOKEN_STANDARD": "ERC20_LIKE"
+        },
+        "disposition": "TECHNICALLY_CORROBORATED"
+      },
+      "token_class_id": null
+    }
+  ],
+  "legal_jurisdiction": "DE",
+  "legal_model": "eWpG crypto securities register",
+  "market": {
+    "admission": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "cash_leg": {
+      "asset_type": "UNKNOWN",
+      "representation": "UNKNOWN"
+    },
+    "coordination": {
+      "model": "UNKNOWN"
+    },
+    "primary_disposition": "NOT_FOUND_IN_SEARCHED_SOURCES",
+    "securities_settlement": {
+      "actual_transaction_observed": "NOT_OBSERVED",
+      "capability": "UNKNOWN",
+      "ledger": "polygon_pos / stellar_public (G0-E)",
+      "mechanism": "UNKNOWN",
+      "system": "Smart Registry (KWP securities register)"
+    },
+    "trade": "NO_TRADE_FOUND"
+  },
+  "slug": "DE000A4AU208",
+  "source_family": "NYALA Smart Registry",
+  "source_id": "nyala_smart_registry",
+  "sources": [
+    {
+      "artifact_id": "art_b60269fb2a8986e2b17ffbe241ee06a40622e7f38c89fd75fff881168a3ad542",
+      "capture_id": "capture_81ff45765def",
+      "parser_id": "nyala_smart_registry",
+      "record_locator": "collection_item[16]",
+      "source_id": "nyala_smart_registry",
+      "source_locator": "https://www.nyala.de/en/products/electronic-securities"
+    },
+    {
+      "artifact_id": null,
+      "capture_id": "tcap_543e1c61f92c",
+      "note": "Post-freeze G0-R source exhaustion",
+      "source_id": "g0r_issuer_enrichment",
+      "source_locator": "https://de000a4au208.register.nyala.de/Bond_Terms_VVI_DE_EN_Anthropic.pdf"
+    }
+  ],
+  "token_class_count": 0,
+  "token_classes": [],
+  "unknowns": [
+    {
+      "field": "cash_leg",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "coordination",
+      "state": "UNKNOWN"
+    },
+    {
+      "field": "public_trade",
+      "state": "NOT_FOUND_IN_SEARCHED_SOURCES"
+    }
+  ]
+}
